@@ -22,7 +22,7 @@ PULSE_DATA = None
 stop_event = None
 def get_cs2_path():
     try:
-        key = winreg.OpenKey(winreg.HKEY_CURRENT_USER, 'Software\Valve\Steam', 0, winreg.KEY_READ)
+        key = winreg.OpenKey(winreg.HKEY_CURRENT_USER, r'Software\Valve\Steam', 0, winreg.KEY_READ)
         path, _ = winreg.QueryValueEx(key, 'SteamPath')
         winreg.CloseKey(key)
     except:
