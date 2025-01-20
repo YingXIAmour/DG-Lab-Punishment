@@ -1,0 +1,221 @@
+from flask import Flask, render_template, jsonify, request
+from flask_cors import CORS
+from flask_socketio import SocketIO, emit
+from bilibili_api import live, sync, Danmaku
+from bilibili_api import Credential
+import threading
+import json
+from xpinyin import Pinyin
+
+
+class BilibiliLiveMonitor:
+    def __init__(self):
+        self.p = Pinyin()
+        self.app = Flask(__name__)
+        self.app.config["SECRET_KEY"] = "secret!"
+        CORS(self.app)
+        self.socketio = SocketIO(self.app, cors_allowed_origins="*")
+        self.danmu_danger_list = []
+        # B站直播间凭证
+        self.credential = Credential(
+            sessdata="",
+            bili_jct="",
+            buvid3="",
+            dedeuserid="",
+            ac_time_value="",
+        )
+        self.room = live.LiveDanmaku(1804464760, credential=self.credential)
+        self.live_room = live.LiveRoom(1804464760, credential=self.credential)
+        self.danmu_num = 0
+        self.online_num = 0
+        self.info = sync(self.live_room.get_room_info())
+        self.old_info = {
+            "fans": self.info["anchor_info"]["relation_info"]["attention"],
+            "guards": self.info["guard_info"]["count"],
+            "fans_club": self.info["anchor_info"]["medal_info"]["fansclub"],
+        }
+        self.gift_list = {}
+        self.price = 0
+        with open('test.json', 'r', encoding='utf-8') as file:
+            self.data = json.load(file)
+        self.sensitive_words = self.data.get('words', [])
+
+    def loads_hanzi(self, s):
+        ss = self.p.get_pinyin(s)
+        return ss
+
+    def check_sensitive(self, s):
+        ss = self.loads_hanzi(s)
+        print(ss)
+        for i in self.sensitive_words:
+            if i in ss:
+                print("检测到敏感词")
+                return True
+        return False
+
+    def on_interact_word(self):
+        def wrapper(event):
+            self.online_num += 1
+            # 收到进房通知
+            user_name = event["data"]["data"]["uinfo"]["base"]["name"]
+            s = "欢迎" + user_name + "进入直播间"
+            # if len(s)>15:
+            #     s=s[:15]+"..."
+            print(s)
+            # await self.live_room.send_danmaku(Danmaku(s))
+            self.socketio.emit("interact", event)
+        self.room.on("INTERACT_WORD")(wrapper)
+        return wrapper
+
+    def on_gift(self):
+        def wrapper(event):
+            send_user = event['data']['data']['sender_uinfo']['base']['name']
+            gift_name = event['data']['data']['giftName']
+            gift_nums = event['data']['data']['num']
+            # await self.live_room.send_danmaku(Danmaku("感谢" + send_user + "赠送的" + str(gift_nums) + "个" + giftName))
+            # 收到礼物
+            gift_name = event["data"]["data"]["giftName"]
+            gift_nums = event["data"]["data"]["num"]
+            if gift_name!= "辣条":
+                self.price += event["data"]["data"]["total_coin"]
+            if gift_name in self.gift_list:
+                self.gift_list[gift_name] += gift_nums
+            else:
+                self.gift_list[gift_name] = gift_nums
+            self.socketio.emit("gift", event)
+        self.room.on("SEND_GIFT")(wrapper)
+        return wrapper
+
+    def on_danmu(self):
+        def wrapper(event):
+            self.danmu_num += 1
+            text = event['data']['info'][1]
+            print(text)
+            print(event["data"]['info'][2])
+            if self.check_sensitive(text):
+                danger_danmu = {
+                    "text": text,
+                    "user": event["data"]['info'][2][1],
+                    "uid": event["data"]['info'][2][0]
+                }
+                print(danger_danmu)
+                self.danmu_danger_list.append(danger_danmu)
+            self.socketio.emit("danmaku", event)
+        self.room.on("DANMU_MSG")(wrapper)
+        return wrapper
+
+    def on_room_real_time_message_update(self):
+        def wrapper(event):
+            # print(event)
+            fans_num = event["data"]["data"]["fans"]
+            fans_club_num = event["data"]["data"]["fans_club"]
+        self.room.on("ROOM_REAL_TIME_MESSAGE_UPDATE")(wrapper)
+        return wrapper
+
+    def connect_room(self):
+        sync(self.room.connect())
+
+    def start_bilibili_thread(self):
+        thread = threading.Thread(target=self.connect_room)
+        thread.daemon = True
+        thread.start()
+
+    def get_room_info(self):
+        event = sync(self.live_room.get_room_info())
+        return jsonify(
+            {
+                "live_status": event["room_info"]["live_status"],
+                "online": event["room_info"]["online"],
+                "likes": event["like_info_v3"]["total_likes"],
+                "fans": event["anchor_info"]["relation_info"]["attention"],
+                "guards": event["guard_info"]["count"],
+                "fans_club": event["anchor_info"]["medal_info"]["fansclub"],
+                "danmu_num": self.danmu_num,
+                "online_num": self.online_num,
+            }
+        )
+
+    def get_update_info(self):
+        now_info = sync(self.live_room.get_room_info())
+        return jsonify(
+            {
+                "fans": now_info["anchor_info"]["relation_info"]["attention"]
+                - self.old_info["fans"],
+                "guards": now_info["guard_info"]["count"] - self.old_info["guards"],
+                "fans_club": now_info["anchor_info"]["medal_info"]["fansclub"]
+                - self.old_info["fans_club"],
+                "danmu_num": self.danmu_num,
+                "online_num": self.online_num,
+                "online": now_info["room_info"]["online"],
+                "price": self.price,
+                "gift_list": self.gift_list,
+            }
+        )
+
+    def get_black_list(self):
+        return jsonify(sync(self.live_room.get_black_list()))
+
+    def get_sensitive_danmu(self):
+        return jsonify({"danger_danmu": self.danmu_danger_list})
+
+    def ban_user(self):
+        try:
+            data = request.get_json()
+            uid = data["uid"]
+            sync(self.live_room.ban_user(uid))
+            return jsonify({"code": 200})
+        except Exception as e:
+            return jsonify({"code": 400, "msg": str(e)})
+
+    def unban_user(self):
+        try:
+            data = request.get_json()
+            uid = data["uid"]
+            sync(self.live_room.unban_user(uid))
+            return jsonify({"code": 200})
+        except Exception as e:
+            return jsonify({"code": 400, "msg": str(e)})
+
+    def add_sensitive_word(self):
+        try:
+            data = request.get_json()
+            qword = data["word"]
+            word = self.loads_hanzi(qword)
+            with open('test.json', 'r', encoding='utf-8') as file:
+                data = json.load(file)
+            if word in data['words']:
+                return jsonify({"code": 400, "msg": "敏感词已存在"})
+            data['words'].append(word)
+            with open('test.json', 'w', encoding='utf-8') as file:
+                json.dump(data, file, ensure_ascii=False, indent=4)
+            return jsonify({"code": 200})
+        except Exception as e:
+            return jsonify({"code": 400, "msg": str(e)})
+
+    def view_sensitive_word(self):
+        try:
+            with open('test.json', 'r', encoding='utf-8') as file:
+                data = json.load(file)
+            return jsonify({"code": 200, "words": data['words']})
+        except Exception as e:
+            return jsonify({"code": 400, "msg": str(e)})
+
+
+if __name__ == "__main__":
+    monitor = BilibiliLiveMonitor()
+    # 调用事件处理函数，它们将在内部使用 room.on 进行事件绑定
+    monitor.on_interact_word()
+    monitor.on_gift()
+    monitor.on_danmu()
+    monitor.on_room_real_time_message_update()
+    monitor.start_bilibili_thread()
+    # 为 Flask 应用添加路由
+    monitor.app.add_url_rule("/get_room_info", "get_room_info", monitor.get_room_info, methods=["GET"])
+    monitor.app.add_url_rule("/get_update_info", "get_update_info", monitor.get_update_info, methods=["GET"])
+    monitor.app.add_url_rule("/get_black_list", "get_black_list", monitor.get_black_list, methods=["GET"])
+    monitor.app.add_url_rule("/get_sensitive_danmu", "get_sensitive_danmu", monitor.get_sensitive_danmu, methods=["GET"])
+    monitor.app.add_url_rule("/ban_user", "ban_user", monitor.ban_user, methods=["POST"])
+    monitor.app.add_url_rule("/unban_user", "unban_user", monitor.unban_user, methods=["POST"])
+    monitor.app.add_url_rule("/add_sensitive_word", "add_sensitive_word", monitor.add_sensitive_word, methods=["POST"])
+    monitor.app.add_url_rule("/view_sensitive_word", "view_sensitive_word", monitor.view_sensitive_word, methods=["GET"])
+    monitor.socketio.run(monitor.app, host="0.0.0.0", port=5000)

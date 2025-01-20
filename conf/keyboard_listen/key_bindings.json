@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "key": "Ctrl+8",
+        "data": {
+            "type": 2,
+            "message": "set channel",
+            "strength": 1,
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 2,
+        "key": "Ctrl+9",
+        "data": {
+            "type": 2,
+            "message": "set channel",
+            "strength": 50,
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 3,
+        "key": "Ctrl+5",
+        "data": {
+            "type": "clientMsg",
+            "message": "A:[\"0A0A0A0A00000000\",\"0A0A0A0A0A0A0A0A\",\"0A0A0A0A14141414\",\"0A0A0A0A1E1E1E1E\",\"0A0A0A0A28282828\",\"0A0A0A0A32323232\",\"0A0A0A0A3C3C3C3C\",\"0A0A0A0A46464646\",\"0A0A0A0A50505050\",\"0A0A0A0A5A5A5A5A\",\"0A0A0A0A64646464\"]",
+            "strength": "",
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 4,
+        "key": "Ctrl+6",
+        "data": {
+            "type": "clientMsg",
+            "message": "A:['141414140A0A0A0A', '141414140A0A0A0A', '0A0A0A0A14141414', '0A0A0A0A1E1E1E1E', '141414141E1E1E1E', '141414141E1E1E1E', '0A0A0A0A28282828', '0A0A0A0A3C3C3C3C', '0A0A0A0A50505050', '1414141450505050', '1414141464646464']",
+            "strength": "",
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 5,
+        "key": "Ctrl+7",
+        "data": {
+            "type": "clientMsg",
+            "message": "A:['0A0A0A0A14141414', '0A0A0A0A1E1E1E1E', '0A0A0A0A28282828', '787878780A0A0A0A']",
+            "strength": "",
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 6,
+        "key": "Ctrl+0",
+        "data": {
+            "type": "clientMsg",
+            "message": "A:['6464646464646464', '6464646464646464', '646464645A5A5A5A', '141414145A5A5A5A', '0A0A0A0A32323232', '141414145A5A5A5A', '646464645A5A5A5A', '6464646464646464', '6464646464646464']",
+            "strength": "",
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 7,
+        "key": "Ctrl+4",
+        "data": {
+            "type": 2,
+            "message": "set channel",
+            "strength": 30,
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 8,
+        "key": "Ctrl+3",
+        "data": {
+            "type": 1,
+            "message": "set channel",
+            "strength": 20,
+            "channel": "A",
+            "clientId": "",
+            "targetId": ""
+        }
+    },
+    {
+        "id": 9,
+        "key": "Ctrl+P",
+        "data": {
+            "type": 2,
+            "message": "set channel",
+            "channel": "A",
+            "clientId": "",
+            "targetId": "",
+            "strength": 100
+        }
+    }
+]

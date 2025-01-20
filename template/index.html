@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>郊狼惩罚姬 - 主页面</title>
+</head>
+<body>
+    <h1>郊狼惩罚姬 - 版本：<span id="version"></span></h1>
+    <div>
+        <p>已安装模块：<span id="module"></span></p>
+    </div>
+</body>
+<script>
+        function refreshPage() {
+            fetch('/version')
+         .then(response => response.json())
+         .then(data => {
+                    document.getElementById('version').innerHTML = data.version;
+                });
+             fetch('/module')
+         .then(response => response.json())
+         .then(data => {
+                    document.getElementById('module').innerHTML = data;
+                });
+        }
+        window.onload = refreshPage;
+    </script>
+</html>

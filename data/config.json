@@ -1,0 +1,26 @@
+{
+    "server":{
+        "ip": "",
+        "port": 1145,
+        "mode": "n-n"
+    },
+    "client": {
+        "mode": "n-n"
+    },
+    "conf": {
+        "strengthAdd": {
+            "A": [1,10],
+            "B": [1,10]
+        },
+        "listening_channel_strength": "HTTP"
+    },
+    "function": {
+        "keyboard_listen": {
+            "keyboardMode": "CONFIG",
+            "keyboard_key_count": 4
+        },
+        "csgo_dglab": {
+            "Test": ""
+        }
+    }
+}
