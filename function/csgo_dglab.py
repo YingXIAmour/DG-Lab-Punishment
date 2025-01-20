@@ -91,9 +91,18 @@ max_strength_A = 0
 max_strength_B = 0
 strength_A = 0
 strength_B = 0
-
+set_zero = True
+async def set_zero_strength(client):
+    global set_zero
+    while not stop_event.is_set():
+        await asyncio.sleep(3)
+        if set_zero is True:
+            client.set_strength("A",0)
+            client.set_strength("B",0)
+        else:
+            set_zero = True
 async def handle_post_request(request):
-    global health
+    global health,set_zero
     queue = request.app["queue"]  # 从app中获取queue
     """处理cs数据请求请求"""
     try:
@@ -108,7 +117,7 @@ async def handle_post_request(request):
                 flash = data["player"]["state"]["flashed"]
                 smoke = data["player"]["state"]["smoked"]
                 # 血量减少（调整强度，发送波形）
-                if now_health < health:
+                if now_health < health and now_health != 0:
                     data_a = math.ceil((100 - now_health) / 100 * max_strength_A)
                     data_b = math.ceil((100 - now_health) / 100 * max_strength_B)
                     log(f"玩家生命值减少: {health} -> {now_health}")
@@ -133,6 +142,7 @@ async def handle_post_request(request):
                     }
                     await queue.put(waveform_data)
                     health = now_health
+                    set_zero = False
                 # 傻瓜蛋！
                 if flash > 0:
                     data_a = math.ceil(max_strength_A*0.3)
@@ -149,9 +159,11 @@ async def handle_post_request(request):
                         "chose": "b",
                     }
                     await queue.put(waveform_data)
+                    set_zero = False
                     health = now_health
                     waveform_data = {"type": "pluse", "data": PULSE_DATA["傻瓜蛋"],"time":3}
                     await queue.put(waveform_data)
+
                 if smoke > 0:
                     data_a = math.ceil(max_strength_A * 0.05 + strength_A)
                     data_b = math.ceil(max_strength_B * 0.05 + strength_B)
@@ -167,14 +179,30 @@ async def handle_post_request(request):
                         "chose": "b",
                     }
                     await queue.put(waveform_data)
+                    set_zero = False
                     random_int = str(random.randint(1, 5))
                     waveform_data = {"type": "pluse", "data": PULSE_DATA["烟雾弹"][random_int],"time":1}
                     await queue.put(waveform_data)
+
                 # 血量归零以及回合结束重置强度以及血量
                 if now_health == 0:
                     health = 100
-                    waveform_data = {"type": "pluse", "data": PULSE_DATA["死亡"],"time":8}
+                    # 强度
+                    waveform_data = {
+                        "type": "strlup",
+                        "data": max_strength_A,
+                        "chose": "a",
+                    }
                     await queue.put(waveform_data)
+                    waveform_data = {
+                        "type": "strlup",
+                        "data": max_strength_B,
+                        "chose": "b",
+                    }
+                    await queue.put(waveform_data)
+                    waveform_data = {"type": "pluse", "data": PULSE_DATA["死亡"],"time":3}
+                    await queue.put(waveform_data)
+
                     await asyncio.sleep(5)
                     waveform_data = {"type": "strlse", "data": 100}
                     await queue.put(waveform_data)
@@ -193,7 +221,7 @@ async def handle_post_request(request):
 
 
 async def send_waveform_on_queue_change(queue, client):
-    while True:
+    while not stop_event.is_set():
         waveform_data = await queue.get()
         types = waveform_data["type"]
         data = waveform_data["data"]
@@ -251,6 +279,9 @@ async def main(client,data):
     # 启动监视队列的任务
     queue_monitor_task = asyncio.create_task(
         send_waveform_on_queue_change(queue, client)
+    )
+    set_zero_task = asyncio.create_task(
+        set_zero_strength(client)
     )
     while not stop_event.is_set():
         strength = client.get_channel_strength()
