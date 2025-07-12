@@ -2,27 +2,92 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/ico" href="/DG-LAB.ico">
     <title>郊狼惩罚姬 - 主页面</title>
+    <link href="assets/index.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/sweet-alert.css">
+    <script src="assets/sweet-alert.min.js"></script>
 </head>
 <body>
-    <h1>郊狼惩罚姬 - 版本：<span id="version"></span></h1>
-    <div>
-        <p>已安装模块：<span id="module"></span></p>
+    <!-- 顶部栏 -->
+    <div class="top-bar">
+        <h3>郊狼惩罚姬 - 版本：<span id="version"></span></h3>
     </div>
+    <!-- 内容区域 -->
+    <div class="content">
+        <p>功能页面</p>
+        <!-- 选项卡容器 -->
+        <div class="tab-container">
+            <div class="tab active" data-panel="panel1">主页信息</div>
+            <div class="tab" data-panel="panel2">功能模块</div>
+            <div class="tab" data-panel="panel3">设置</div>
+            <div class="tab" data-panel="panel4">已安装模块信息</div>
+            <!-- 滑块指示器 -->
+            <div class="tab-slider"></div>
+        </div>
+        <!-- 面板容器 -->
+        <div class="panel-container">
+            <!-- 常用按钮面板 -->
+            <div class="panel active" id="panel1">
+                <p>服务端：<span id="server_status" style="color: red;">未运行</span> 客户端：<span id="client_status" style="color: red;">未运行</span></p>
+            </div>
+            <!-- 模块面板 -->
+            <div class="panel" id="panel2">
+                <button id="server">启动服务端</button>
+                <button id="client">启动客户端</button>
+            </div>
+            <!-- 设置面板 -->
+            <div class="panel" id="panel3">
+                <!-- 服务端 IP 输入框 -->
+                <div class="form-group">
+                    <label for="serverIp">服务端 IP</label>
+                    <input type="text" id="serverIp">
+                </div>
+                <!-- 服务端模式选择框 -->
+                <div class="form-group">
+                    <label for="serverMode">服务端模式</label>
+                    <select id="serverMode">
+                        <option value="n-n">n - n</option>
+                        <option value="n-1">n - 1</option>
+                        <option value="1-n">1 - n</option>
+                    </select>
+                </div>
+                <!-- 客户端模式选择框 -->
+                <div class="form-group">
+                    <label for="clientMode">客户端模式</label>
+                    <select id="clientMode">
+                        <option value="n-n">n - n</option>
+                        <option value="n-1">n - 1</option>
+                        <option value="1-n">1 - n</option>
+                    </select>
+                </div>
+                <!-- 按钮 -->
+                <button id="button1">重载配置文件</button>
+                <button id="button2">保存</button>
+            </div>
+            <!-- 已安装模块面板 -->
+            <div class="panel" id="panel4">
+                <table id="module-table">
+                    <thead>
+                        <tr>
+                            <th>模块名称</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <p>日志</p>
+        <br>
+        <textarea id="log" readonly
+                style="width: 99%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #222; color: #0f0; font-family: 'Courier New', Courier, monospace; font-size: 14px; resize: none; height: 300px; overflow-y: auto; line-height: 1.5; white-space: pre-wrap;">
+
+        </textarea>
+    </div>
+    <script src="assets/index.js"></script>
 </body>
-<script>
-        function refreshPage() {
-            fetch('/version')
-         .then(response => response.json())
-         .then(data => {
-                    document.getElementById('version').innerHTML = data.version;
-                });
-             fetch('/module')
-         .then(response => response.json())
-         .then(data => {
-                    document.getElementById('module').innerHTML = data;
-                });
-        }
-        window.onload = refreshPage;
-    </script>
 </html>

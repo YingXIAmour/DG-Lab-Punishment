@@ -1,6 +1,9 @@
+import queue
 import tkinter as tk
+from tkinter import messagebox
 import threading
 import asyncio
+
 
 
 class GUI:
@@ -13,6 +16,7 @@ class GUI:
         self.is_hidden = False
         self.button = dict()
         self.button_grid = dict()
+        self.message_queue = None
         self.grid_count = {
             "now": [1, 0],
             "max": [10, 10]
@@ -30,19 +34,52 @@ class GUI:
             button_stop_name = "stop-{}".format(module_name)
 
             def button_callback(temp_module=module, temp_module_name=module_name, bt_start_name=button_start_name, bt_stop_name=button_stop_name):
-                self.start_module_in_thread(temp_module, temp_module_name)
-                self.button[bt_start_name].grid_forget()
-                grid_row = self.button_grid[bt_start_name]["row"]
-                grid_column = self.button_grid[bt_start_name]["column"]
-                self.button[bt_stop_name].grid(row=grid_row, column=grid_column)
+                return_queue = queue.Queue()
+                send_data = {
+                    "action":"start_module",
+                    'module_name':temp_module_name,
+                    'queue':return_queue
+
+                }
+                self.message_queue.put(send_data)
+                try:
+                    message = return_queue.get(timeout=2)
+                    if message['code'] != 200:
+                        messagebox.showwarning("错误","启动失败。原因：{}".format(message['message']))
+                        return
+                    else:
+                        # self.start_module_in_thread(temp_module, temp_module_name)
+                        self.button[bt_start_name].grid_forget()
+                        grid_row = self.button_grid[bt_start_name]["row"]
+                        grid_column = self.button_grid[bt_start_name]["column"]
+                        self.button[bt_stop_name].grid(row=grid_row, column=grid_column)
+                except:
+                    messagebox.showerror("错误！","主程序未响应")
+
 
             def stop_button_callback(temp_module=module, temp_module_name=module_name, bt_start_name=button_start_name,
                                   bt_stop_name=button_stop_name):
-                self.stop_module_in_thread(temp_module, temp_module_name)
-                self.button[bt_stop_name].grid_forget()
-                grid_row = self.button_grid[bt_stop_name]["row"]
-                grid_column = self.button_grid[bt_stop_name]["column"]
-                self.button[bt_start_name].grid(row=grid_row, column=grid_column)
+                return_queue = queue.Queue()
+                send_data = {
+                    "action": "stop_module",
+                    'module_name': temp_module_name,
+                    'queue': return_queue
+                }
+                self.message_queue.put(send_data)
+                try:
+                    message = return_queue.get(timeout=2)
+                    if message['code'] != 200:
+                        messagebox.showwarning("错误","关闭失败。原因：{}".format(message['message']))
+                        return
+                    else:
+                        self.button[bt_stop_name].grid_forget()
+                        grid_row = self.button_grid[bt_stop_name]["row"]
+                        grid_column = self.button_grid[bt_stop_name]["column"]
+                        self.button[bt_start_name].grid(row=grid_row, column=grid_column)
+                except:
+                    messagebox.showerror("错误！","主程序未响应")
+
+
 
             self.button.update({button_start_name: None, button_stop_name: None})
             self.button[button_start_name] = tk.Button(self.root, text="启动 {}".format(module.name), command=button_callback, name=button_start_name,
@@ -92,36 +129,6 @@ class GUI:
             if self.thread_all[module_name] is not None:
                 self.stop_module_in_thread(module, module_name)
         self.root.destroy()
-
-    def start_module_in_thread(self, module, module_name):
-        def target():
-            if hasattr(module, 'main'):
-                main_func = getattr(module, 'main')
-                if asyncio.iscoroutinefunction(main_func):  # 检查 main 函数是否为异步函数
-                    async def async_target():
-                        await main_func(self.client, self.start_data[module_name])
-                    asyncio.run(async_target())
-                else:
-                    main_func(self.client, self.start_data[module_name])
-            else:
-                print(f"模块 {module.__name__} 没有启动函数！")
-        self.thread_all[module_name] = threading.Thread(target=target)
-        self.thread_all[module_name].start()
-
-    def stop_module_in_thread(self, module, module_name):
-        if hasattr(module, 'stop'):
-            stop_func = getattr(module, 'stop')
-            if asyncio.iscoroutinefunction(stop_func):  # 检查 main 函数是否为异步函数
-                async def async_target():
-                    await stop_func()
-                asyncio.run(async_target())
-            else:
-                stop_func()
-        else:
-            print(f"模块 {module.__name__} 没有启动函数！")
-        if self.thread_all[module_name] is not None:
-            self.thread_all[module_name].join(0.5)
-            self.thread_all[module_name] = None
 
 def main(tmp_client, data):
     gui = GUI()

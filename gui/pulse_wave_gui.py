@@ -16,7 +16,7 @@ class WaveDataInputAndConversion:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("郊狼 波形生成器")
-        self.root.iconbitmap(resource_path("../DG-LAB.ico"))
+        self.root.iconbitmap(resource_path("../data/DG-LAB.ico"))
         self.root.resizable(False, False)
         # 统一字体设置
         self.my_font = tkFont.Font(family="Arial", size=12)

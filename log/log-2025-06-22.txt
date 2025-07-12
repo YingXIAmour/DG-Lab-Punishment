@@ -1,0 +1,44 @@
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:39] [INFO] Server: 服务器模式：n-n
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:39] [INFO] Server: 服务器模式：n-n
+[23:47:42] [INFO] Server: 服务器在192.168.31.217上运行
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:39] [INFO] Server: 服务器模式：n-n
+[23:47:42] [INFO] Server: 服务器在192.168.31.217上运行
+[23:47:42] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:39] [INFO] Server: 服务器模式：n-n
+[23:47:42] [INFO] Server: 服务器在192.168.31.217上运行
+[23:47:42] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[23:51:45] [INFO] Server: WebSocket Server正在关闭
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:39] [INFO] Server: 服务器模式：n-n
+[23:47:42] [INFO] Server: 服务器在192.168.31.217上运行
+[23:47:42] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[23:51:45] [INFO] Server: WebSocket Server正在关闭
+[23:51:45] [INFO] Server: WebSocket Server关闭
+[23:47:04] [INFO] 获取程序运行目录……
+[23:47:04] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[23:47:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[23:47:39] [INFO] Server: 服务器模式：n-n
+[23:47:42] [INFO] Server: 服务器在192.168.31.217上运行
+[23:47:42] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[23:51:45] [INFO] Server: WebSocket Server正在关闭
+[23:51:45] [INFO] Server: WebSocket Server关闭
+[23:51:45] [INFO] Server: 服务器正在关闭...

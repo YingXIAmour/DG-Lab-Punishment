@@ -1,0 +1,624 @@
+[16:04:19] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:04:19] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:04:19] [INFO] 开始分析并安装所有模块依赖...
+[16:04:19] [INFO] 发现 11 个依赖，开始检查安装...
+[16:04:19] [INFO] ===== 开始检查并安装依赖 =====
+[16:04:19] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:04:19] [INFO] 待检查的依赖: time, asyncio, tkinter, multiprocessing, keyboard, socket, winreg, qrcode, PIL, queue, aiohttp
+[16:04:19] [INFO] 执行内存清理...
+[16:04:19] [INFO] 内存清理完成: 系统使用率=50.5%, 进程使用=55.4MB
+[16:04:19] [INFO] 跳过安装标准库: time
+[16:04:19] [INFO] 包已安装: asyncio
+[16:04:19] [INFO] 跳过安装标准库: tkinter
+[16:04:19] [INFO] 跳过安装标准库: multiprocessing
+[16:04:19] [INFO] 跳过安装标准库: keyboard
+[16:04:19] [INFO] 跳过安装标准库: socket
+[16:04:19] [INFO] 跳过安装标准库: winreg
+[16:04:19] [INFO] 跳过安装标准库: qrcode
+[16:04:19] [INFO] 跳过安装标准库: PIL
+[16:04:19] [INFO] 跳过安装标准库: queue
+[16:04:19] [INFO] 跳过安装标准库: aiohttp
+[16:04:19] [INFO] Python标准库: time, tkinter, multiprocessing, keyboard, socket, winreg, qrcode, PIL, queue, aiohttp
+[16:04:19] [INFO] 已安装的依赖: asyncio
+[16:04:19] [SUCCESS] 所有依赖都已安装
+[16:04:19] [INFO] ===== 依赖检查完成 =====
+[16:04:19] [INFO] 开始导入模块...
+[16:04:19] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function =====
+[16:04:19] [INFO] 执行内存清理...
+[16:04:19] [INFO] 内存清理完成: 系统使用率=50.5%, 进程使用=55.4MB
+[16:04:19] [INFO] 开始导入模块...
+[16:04:19] [INFO] 尝试导入模块: csgo_dglab
+[16:04:19] [DEBUG] 内存状态: 系统使用率=50.5%, 进程使用=55.4MB
+[16:04:20] [SUCCESS] 成功导入模块 csgo_dglab
+[16:04:20] [INFO] 尝试导入模块: keyboard_listen
+[16:04:20] [SUCCESS] 成功导入模块 keyboard_listen
+[16:04:20] [INFO] 共导入 2 个模块
+[16:04:20] [INFO] 执行内存清理...
+[16:04:20] [INFO] 内存清理完成: 系统使用率=50.5%, 进程使用=65.1MB
+[16:04:20] [INFO] ===== 模块导入完成 =====
+[16:04:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[16:04:44] [INFO] 窗口关闭事件触发，开始清理...
+[16:04:44] [INFO] 程序开始清理资源...
+[16:04:44] [INFO] 等待资源完全释放...
+[16:04:44] [INFO] 倒计时 3 秒...
+[16:04:45] [INFO] 倒计时 2 秒...
+[16:04:46] [INFO] 倒计时 1 秒...
+[16:04:47] [INFO] 资源清理完成，程序退出
+[16:48:47] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:48:47] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:48:47] [INFO] 开始分析并安装所有模块依赖...
+[16:48:47] [INFO] 发现 11 个依赖，开始检查安装...
+[16:48:47] [INFO] ===== 开始检查并安装依赖 =====
+[16:48:47] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:48:47] [INFO] 待检查的依赖: aiohttp, socket, asyncio, winreg, multiprocessing, queue, tkinter, keyboard, PIL, time, qrcode
+[16:48:47] [INFO] 执行内存清理...
+[16:48:47] [INFO] 内存清理完成: 系统使用率=49.6%, 进程使用=51.5MB
+[16:48:47] [INFO] 包未安装: aiohttp
+[16:48:47] [INFO] 执行内存清理...
+[16:48:47] [INFO] 内存清理完成: 系统使用率=49.6%, 进程使用=51.5MB
+[16:48:47] [INFO] 跳过安装标准库: socket
+[16:48:47] [INFO] 包已安装: asyncio
+[16:48:47] [INFO] 跳过安装标准库: winreg
+[16:48:47] [INFO] 跳过安装标准库: multiprocessing
+[16:48:47] [INFO] 跳过安装标准库: queue
+[16:48:47] [INFO] 跳过安装标准库: tkinter
+[16:48:47] [INFO] 跳过安装标准库: keyboard
+[16:48:47] [INFO] 包未安装: PIL
+[16:48:47] [INFO] 跳过安装标准库: time
+[16:48:47] [INFO] 跳过安装标准库: qrcode
+[16:48:47] [INFO] Python标准库: socket, winreg, multiprocessing, queue, tkinter, keyboard, time, qrcode
+[16:48:47] [INFO] 已安装的依赖: asyncio
+[16:48:47] [INFO] 需要安装的依赖: aiohttp, PIL
+[16:48:47] [INFO] ===== 开始安装第 1 批依赖 =====
+[16:48:47] [INFO] 批次依赖: aiohttp, PIL
+[16:48:47] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=50.6MB
+[16:48:47] [INFO] ===== 开始安装包: aiohttp =====
+[16:48:47] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:48:47] [INFO] 安装依赖: True
+[16:48:47] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=50.6MB
+[16:48:47] [INFO] 正在检查网络连接...
+[16:48:47] [INFO] 网络连接正常
+[16:48:47] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install aiohttp --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[16:48:47] [DEBUG] 子进程 43856 内存使用: 2.3MB
+[16:48:49] [DEBUG] Collecting aiohttp
+[16:48:49] [DEBUG] Obtaining dependency information for aiohttp from https://files.pythonhosted.org/packages/f8/b6/98518bcc615ef998a64bef371178b9afc98ee25895b4f476c428fade2220/aiohttp-3.12.13-cp311-cp311-win_amd64.whl.metadata
+[16:48:50] [DEBUG] Downloading aiohttp-3.12.13-cp311-cp311-win_amd64.whl.metadata (7.9 kB)
+[16:48:50] [DEBUG] Collecting aiohappyeyeballs>=2.5.0 (from aiohttp)
+[16:48:50] [DEBUG] Obtaining dependency information for aiohappyeyeballs>=2.5.0 from https://files.pythonhosted.org/packages/0f/15/5bf3b99495fb160b63f95972b81750f18f7f4e02ad051373b669d17d44f2/aiohappyeyeballs-2.6.1-py3-none-any.whl.metadata
+[16:48:50] [DEBUG] Downloading aiohappyeyeballs-2.6.1-py3-none-any.whl.metadata (5.9 kB)
+[16:48:50] [DEBUG] Collecting aiosignal>=1.1.2 (from aiohttp)
+[16:48:50] [DEBUG] Obtaining dependency information for aiosignal>=1.1.2 from https://files.pythonhosted.org/packages/fb/76/641ae371508676492379f16e2fa48f4e2c11741bd63c48be4b12a6b09cba/aiosignal-1.4.0-py3-none-any.whl.metadata
+[16:48:50] [DEBUG] Downloading aiosignal-1.4.0-py3-none-any.whl.metadata (3.7 kB)
+[16:48:51] [DEBUG] Collecting attrs>=17.3.0 (from aiohttp)
+[16:48:51] [DEBUG] Obtaining dependency information for attrs>=17.3.0 from https://files.pythonhosted.org/packages/77/06/bb80f5f86020c4551da315d78b3ab75e8228f89f0162f2c3a819e407941a/attrs-25.3.0-py3-none-any.whl.metadata
+[16:48:51] [DEBUG] Downloading attrs-25.3.0-py3-none-any.whl.metadata (10 kB)
+[16:48:51] [DEBUG] Collecting frozenlist>=1.1.1 (from aiohttp)
+[16:48:51] [DEBUG] Obtaining dependency information for frozenlist>=1.1.1 from https://files.pythonhosted.org/packages/58/17/fe61124c5c333ae87f09bb67186d65038834a47d974fc10a5fadb4cc5ae1/frozenlist-1.7.0-cp311-cp311-win_amd64.whl.metadata
+[16:48:51] [DEBUG] Downloading frozenlist-1.7.0-cp311-cp311-win_amd64.whl.metadata (19 kB)
+[16:48:52] [DEBUG] Collecting multidict<7.0,>=4.5 (from aiohttp)
+[16:48:52] [DEBUG] Obtaining dependency information for multidict<7.0,>=4.5 from https://files.pythonhosted.org/packages/e0/d4/27652c1c6526ea6b4f5ddd397e93f4232ff5de42bea71d339bc6a6cc497f/multidict-6.6.3-cp311-cp311-win_amd64.whl.metadata
+[16:48:52] [DEBUG] Downloading multidict-6.6.3-cp311-cp311-win_amd64.whl.metadata (5.4 kB)
+[16:48:52] [DEBUG] Collecting propcache>=0.2.0 (from aiohttp)
+[16:48:52] [DEBUG] Obtaining dependency information for propcache>=0.2.0 from https://files.pythonhosted.org/packages/e1/2d/89fe4489a884bc0da0c3278c552bd4ffe06a1ace559db5ef02ef24ab446b/propcache-0.3.2-cp311-cp311-win_amd64.whl.metadata
+[16:48:52] [DEBUG] Downloading propcache-0.3.2-cp311-cp311-win_amd64.whl.metadata (12 kB)
+[16:48:53] [DEBUG] Collecting yarl<2.0,>=1.17.0 (from aiohttp)
+[16:48:53] [DEBUG] Obtaining dependency information for yarl<2.0,>=1.17.0 from https://files.pythonhosted.org/packages/f0/09/d9c7942f8f05c32ec72cd5c8e041c8b29b5807328b68b4801ff2511d4d5e/yarl-1.20.1-cp311-cp311-win_amd64.whl.metadata
+[16:48:53] [DEBUG] Downloading yarl-1.20.1-cp311-cp311-win_amd64.whl.metadata (76 kB)
+[16:48:53] [DEBUG] -------------------------------------- 76.3/76.3 kB 248.5 kB/s eta 0:00:00
+[16:48:53] [DEBUG] Collecting typing-extensions>=4.2 (from aiosignal>=1.1.2->aiohttp)
+[16:48:53] [DEBUG] Obtaining dependency information for typing-extensions>=4.2 from https://files.pythonhosted.org/packages/b5/00/d631e67a838026495268c2f6884f3711a15a9a2a96cd244fdaea53b823fb/typing_extensions-4.14.1-py3-none-any.whl.metadata
+[16:48:53] [DEBUG] Downloading typing_extensions-4.14.1-py3-none-any.whl.metadata (3.0 kB)
+[16:48:53] [DEBUG] Collecting idna>=2.0 (from yarl<2.0,>=1.17.0->aiohttp)
+[16:48:53] [DEBUG] Obtaining dependency information for idna>=2.0 from https://files.pythonhosted.org/packages/76/c6/c88e154df9c4e1a2a66ccf0005a88dfb2650c1dffb6f5ce603dfbd452ce3/idna-3.10-py3-none-any.whl.metadata
+[16:48:54] [DEBUG] Downloading idna-3.10-py3-none-any.whl.metadata (10 kB)
+[16:48:54] [DEBUG] Downloading aiohttp-3.12.13-cp311-cp311-win_amd64.whl (451 kB)
+[16:48:55] [DEBUG] -------------------------------------- 451.4/451.4 kB 495.7 kB/s eta 0:00:00
+[16:48:55] [DEBUG] Downloading aiohappyeyeballs-2.6.1-py3-none-any.whl (15 kB)
+[16:48:55] [DEBUG] Downloading aiosignal-1.4.0-py3-none-any.whl (7.5 kB)
+[16:48:55] [DEBUG] Downloading attrs-25.3.0-py3-none-any.whl (63 kB)
+[16:48:55] [DEBUG] ---------------------------------------- 63.8/63.8 kB 569.9 kB/s eta 0:00:00
+[16:48:55] [DEBUG] Downloading frozenlist-1.7.0-cp311-cp311-win_amd64.whl (44 kB)
+[16:48:55] [DEBUG] ---------------------------------------- 44.0/44.0 kB 718.7 kB/s eta 0:00:00
+[16:48:56] [DEBUG] Downloading multidict-6.6.3-cp311-cp311-win_amd64.whl (45 kB)
+[16:48:56] [DEBUG] ---------------------------------------- 45.9/45.9 kB 759.6 kB/s eta 0:00:00
+[16:48:56] [DEBUG] Downloading propcache-0.3.2-cp311-cp311-win_amd64.whl (41 kB)
+[16:48:56] [DEBUG] ---------------------------------------- 41.5/41.5 kB 665.1 kB/s eta 0:00:00
+[16:48:56] [DEBUG] Downloading yarl-1.20.1-cp311-cp311-win_amd64.whl (86 kB)
+[16:48:56] [DEBUG] ---------------------------------------- 86.7/86.7 kB 611.6 kB/s eta 0:00:00
+[16:48:56] [DEBUG] Downloading idna-3.10-py3-none-any.whl (70 kB)
+[16:48:56] [DEBUG] ---------------------------------------- 70.4/70.4 kB 647.3 kB/s eta 0:00:00
+[16:48:56] [DEBUG] Downloading typing_extensions-4.14.1-py3-none-any.whl (43 kB)
+[16:48:56] [DEBUG] ---------------------------------------- 43.9/43.9 kB 1.1 MB/s eta 0:00:00
+[16:48:57] [DEBUG] Installing collected packages: typing-extensions, propcache, multidict, idna, frozenlist, attrs, aiohappyeyeballs, yarl, aiosignal, aiohttp
+[16:48:57] [DEBUG] 子进程 43856 内存使用: 4.0MB
+[16:48:58] [DEBUG] Successfully installed aiohappyeyeballs-2.6.1 aiohttp-3.12.13 aiosignal-1.4.0 attrs-25.3.0 frozenlist-1.7.0 idna-3.10 multidict-6.6.3 propcache-0.3.2 typing-extensions-4.14.1 yarl-1.20.1
+[16:48:58] [INFO] 命令返回码: 0
+[16:48:58] [SUCCESS] 成功安装包 aiohttp
+[16:48:58] [INFO] ===== 包安装完成: aiohttp =====
+[16:48:58] [INFO] 执行内存清理...
+[16:48:58] [INFO] 内存清理完成: 系统使用率=49.6%, 进程使用=53.6MB
+[16:48:58] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=52.6MB
+[16:48:58] [INFO] ===== 开始安装包: PIL =====
+[16:48:58] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[16:48:58] [INFO] 安装依赖: True
+[16:48:58] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=52.6MB
+[16:48:58] [INFO] 正在检查网络连接...
+[16:48:58] [INFO] 网络连接正常
+[16:48:58] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install PIL --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[16:48:59] [DEBUG] 子进程 39308 内存使用: 2.3MB
+[16:49:00] [DEBUG] ERROR: Could not find a version that satisfies the requirement PIL (from versions: none)
+[16:49:00] [DEBUG] ERROR: No matching distribution found for PIL
+[16:49:00] [INFO] 命令返回码: 1
+[16:49:00] [ERROR] 安装包 PIL 失败
+[16:49:00] [INFO] ===== 包安装失败: PIL =====
+[16:49:00] [INFO] 执行内存清理...
+[16:49:00] [INFO] 内存清理完成: 系统使用率=49.5%, 进程使用=53.7MB
+[16:49:00] [ERROR] 安装依赖 PIL 失败
+[16:49:00] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=53.7MB
+[16:49:00] [INFO] ===== 第 1 批依赖安装完成 =====
+[16:49:00] [WARNING] 部分依赖安装失败，可能影响模块加载
+[16:49:00] [INFO] ===== 依赖检查完成 =====
+[16:49:00] [INFO] 执行内存清理...
+[16:49:00] [INFO] 内存清理完成: 系统使用率=49.6%, 进程使用=53.7MB
+[16:49:00] [INFO] 开始导入模块...
+[16:49:00] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[16:49:00] [INFO] 执行内存清理...
+[16:49:00] [INFO] 内存清理完成: 系统使用率=49.6%, 进程使用=53.7MB
+[16:49:00] [INFO] 开始导入模块...
+[16:49:00] [INFO] 尝试导入模块: csgo_dglab
+[16:49:00] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=53.7MB
+[16:49:00] [WARNING] 开发环境导入模块 csgo_dglab 失败: No module named 'PIL'
+[16:49:00] [INFO] 尝试导入模块: keyboard_listen
+[16:49:00] [DEBUG] 内存状态: 系统使用率=49.6%, 进程使用=60.8MB
+[16:49:00] [SUCCESS] 成功导入模块 keyboard_listen
+[16:49:00] [INFO] 共导入 1 个模块
+[16:49:00] [INFO] 执行内存清理...
+[16:49:00] [INFO] 内存清理完成: 系统使用率=49.6%, 进程使用=63.8MB
+[16:49:00] [INFO] ===== 模块导入完成 =====
+[16:49:00] [SUCCESS] HTTP 服务器已于8000端口启动
+[16:49:06] [INFO] 窗口关闭事件触发，开始清理...
+[16:49:06] [INFO] 程序开始清理资源...
+[16:49:06] [INFO] 等待资源完全释放...
+[16:49:06] [INFO] 倒计时 3 秒...
+[16:49:07] [INFO] 倒计时 2 秒...
+[16:49:08] [INFO] 倒计时 1 秒...
+[16:49:09] [INFO] 资源清理完成，程序退出
+[17:31:11] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:11] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:11] [INFO] 开始分析并安装所有模块依赖...
+[17:31:11] [INFO] 发现 11 个依赖，开始检查安装...
+[17:31:11] [INFO] ===== 开始检查并安装依赖 =====
+[17:31:11] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:12] [INFO] 待检查的依赖: winreg, time, PIL, multiprocessing, tkinter, asyncio, socket, qrcode, aiohttp, keyboard, queue
+[17:31:12] [INFO] 执行内存清理...
+[17:31:12] [INFO] 内存清理完成: 系统使用率=39.8%, 进程使用=50.9MB
+[17:31:12] [INFO] 跳过安装标准库: winreg
+[17:31:12] [INFO] 跳过安装标准库: time
+[17:31:12] [INFO] 包未安装: PIL
+[17:31:12] [INFO] 执行内存清理...
+[17:31:12] [INFO] 内存清理完成: 系统使用率=39.8%, 进程使用=50.9MB
+[17:31:12] [INFO] 跳过安装标准库: multiprocessing
+[17:31:12] [INFO] 跳过安装标准库: tkinter
+[17:31:12] [INFO] 包已安装: asyncio
+[17:31:12] [INFO] 跳过安装标准库: socket
+[17:31:12] [INFO] 跳过安装标准库: qrcode
+[17:31:12] [INFO] 包已安装: aiohttp
+[17:31:12] [INFO] 跳过安装标准库: keyboard
+[17:31:12] [INFO] 跳过安装标准库: queue
+[17:31:12] [INFO] Python标准库: winreg, time, multiprocessing, tkinter, socket, qrcode, keyboard, queue
+[17:31:12] [INFO] 已安装的依赖: asyncio, aiohttp
+[17:31:12] [INFO] 需要安装的依赖: PIL
+[17:31:12] [INFO] ===== 开始安装第 1 批依赖 =====
+[17:31:12] [INFO] 批次依赖: PIL
+[17:31:12] [DEBUG] 内存状态: 系统使用率=39.8%, 进程使用=50.9MB
+[17:31:12] [INFO] ===== 开始安装包: PIL =====
+[17:31:12] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:12] [INFO] 安装依赖: True
+[17:31:12] [DEBUG] 内存状态: 系统使用率=39.8%, 进程使用=51.0MB
+[17:31:12] [INFO] 正在检查网络连接...
+[17:31:12] [INFO] 网络连接正常
+[17:31:12] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install PIL --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[17:31:12] [DEBUG] 子进程 9112 内存使用: 1.8MB
+[17:31:14] [DEBUG] ERROR: Could not find a version that satisfies the requirement PIL (from versions: none)
+[17:31:14] [DEBUG] ERROR: No matching distribution found for PIL
+[17:31:14] [INFO] 命令返回码: 1
+[17:31:14] [ERROR] 安装包 PIL 失败
+[17:31:14] [INFO] ===== 包安装失败: PIL =====
+[17:31:14] [INFO] 执行内存清理...
+[17:31:14] [INFO] 内存清理完成: 系统使用率=39.9%, 进程使用=53.0MB
+[17:31:14] [ERROR] 安装依赖 PIL 失败
+[17:31:14] [DEBUG] 内存状态: 系统使用率=39.9%, 进程使用=53.0MB
+[17:31:14] [INFO] ===== 第 1 批依赖安装完成 =====
+[17:31:14] [WARNING] 部分依赖安装失败，可能影响模块加载
+[17:31:14] [INFO] ===== 依赖检查完成 =====
+[17:31:14] [INFO] 执行内存清理...
+[17:31:14] [INFO] 内存清理完成: 系统使用率=39.9%, 进程使用=53.0MB
+[17:31:14] [INFO] 开始导入模块...
+[17:31:14] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[17:31:14] [INFO] 执行内存清理...
+[17:31:14] [INFO] 内存清理完成: 系统使用率=39.9%, 进程使用=53.0MB
+[17:31:14] [INFO] 开始导入模块...
+[17:31:14] [INFO] 尝试导入模块: csgo_dglab
+[17:31:14] [DEBUG] 内存状态: 系统使用率=39.9%, 进程使用=53.0MB
+[17:31:15] [WARNING] 开发环境导入模块 csgo_dglab 失败: No module named 'PIL'
+[17:31:15] [INFO] 尝试导入模块: keyboard_listen
+[17:31:15] [DEBUG] 内存状态: 系统使用率=39.9%, 进程使用=61.2MB
+[17:31:15] [SUCCESS] 成功导入模块 keyboard_listen
+[17:31:15] [INFO] 共导入 1 个模块
+[17:31:15] [INFO] 执行内存清理...
+[17:31:15] [INFO] 内存清理完成: 系统使用率=39.9%, 进程使用=62.8MB
+[17:31:15] [INFO] ===== 模块导入完成 =====
+[17:31:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[17:31:21] [INFO] 窗口关闭事件触发，开始清理...
+[17:31:21] [INFO] 程序开始清理资源...
+[17:31:21] [INFO] 等待资源完全释放...
+[17:31:21] [INFO] 倒计时 3 秒...
+[17:31:22] [INFO] 倒计时 2 秒...
+[17:31:23] [INFO] 倒计时 1 秒...
+[17:31:24] [INFO] 资源清理完成，程序退出
+[17:31:28] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:28] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:28] [INFO] 开始分析并安装所有模块依赖...
+[17:31:28] [INFO] 发现 11 个依赖，开始检查安装...
+[17:31:28] [INFO] ===== 开始检查并安装依赖 =====
+[17:31:28] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:28] [INFO] 待检查的依赖: time, keyboard, asyncio, queue, qrcode, aiohttp, tkinter, PIL, socket, multiprocessing, winreg
+[17:31:28] [INFO] 执行内存清理...
+[17:31:28] [INFO] 内存清理完成: 系统使用率=40.4%, 进程使用=50.1MB
+[17:31:28] [INFO] 跳过安装标准库: time
+[17:31:28] [INFO] 跳过安装标准库: keyboard
+[17:31:28] [INFO] 包已安装: asyncio
+[17:31:28] [INFO] 跳过安装标准库: queue
+[17:31:28] [INFO] 跳过安装标准库: qrcode
+[17:31:28] [INFO] 包已安装: aiohttp
+[17:31:28] [INFO] 跳过安装标准库: tkinter
+[17:31:28] [INFO] 包未安装: PIL
+[17:31:28] [INFO] 跳过安装标准库: socket
+[17:31:28] [INFO] 跳过安装标准库: multiprocessing
+[17:31:28] [INFO] 跳过安装标准库: winreg
+[17:31:28] [INFO] Python标准库: time, keyboard, queue, qrcode, tkinter, socket, multiprocessing, winreg
+[17:31:28] [INFO] 已安装的依赖: asyncio, aiohttp
+[17:31:28] [INFO] 需要安装的依赖: PIL
+[17:31:29] [INFO] ===== 开始安装第 1 批依赖 =====
+[17:31:29] [INFO] 批次依赖: PIL
+[17:31:29] [DEBUG] 内存状态: 系统使用率=40.4%, 进程使用=50.7MB
+[17:31:29] [INFO] ===== 开始安装包: PIL =====
+[17:31:29] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:31:29] [INFO] 安装依赖: True
+[17:31:29] [DEBUG] 内存状态: 系统使用率=40.4%, 进程使用=50.8MB
+[17:31:29] [INFO] 正在检查网络连接...
+[17:31:30] [INFO] 网络连接正常
+[17:31:30] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install PIL --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[17:31:30] [DEBUG] 子进程 24268 内存使用: 1.8MB
+[17:31:31] [DEBUG] ERROR: Could not find a version that satisfies the requirement PIL (from versions: none)
+[17:31:31] [DEBUG] ERROR: No matching distribution found for PIL
+[17:31:31] [INFO] 命令返回码: 1
+[17:31:31] [ERROR] 安装包 PIL 失败
+[17:31:31] [INFO] ===== 包安装失败: PIL =====
+[17:31:31] [INFO] 执行内存清理...
+[17:31:31] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=52.0MB
+[17:31:31] [ERROR] 安装依赖 PIL 失败
+[17:31:31] [DEBUG] 内存状态: 系统使用率=40.5%, 进程使用=52.6MB
+[17:31:31] [INFO] ===== 第 1 批依赖安装完成 =====
+[17:31:31] [WARNING] 部分依赖安装失败，可能影响模块加载
+[17:31:31] [INFO] ===== 依赖检查完成 =====
+[17:31:31] [INFO] 执行内存清理...
+[17:31:31] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=52.6MB
+[17:31:31] [INFO] 开始导入模块...
+[17:31:31] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[17:31:31] [INFO] 执行内存清理...
+[17:31:31] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=52.6MB
+[17:31:31] [INFO] 开始导入模块...
+[17:31:31] [INFO] 尝试导入模块: csgo_dglab
+[17:31:31] [DEBUG] 内存状态: 系统使用率=40.5%, 进程使用=52.6MB
+[17:31:31] [WARNING] 开发环境导入模块 csgo_dglab 失败: No module named 'PIL'
+[17:31:31] [INFO] 尝试导入模块: keyboard_listen
+[17:31:31] [DEBUG] 内存状态: 系统使用率=40.5%, 进程使用=60.8MB
+[17:31:31] [SUCCESS] 成功导入模块 keyboard_listen
+[17:31:31] [INFO] 共导入 1 个模块
+[17:31:31] [INFO] 执行内存清理...
+[17:31:31] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=62.3MB
+[17:31:31] [INFO] ===== 模块导入完成 =====
+[17:31:31] [SUCCESS] HTTP 服务器已于8000端口启动
+[17:33:27] [INFO] 窗口关闭事件触发，开始清理...
+[17:33:27] [INFO] 程序开始清理资源...
+[17:33:28] [INFO] 等待资源完全释放...
+[17:33:28] [INFO] 倒计时 3 秒...
+[17:33:29] [INFO] 倒计时 2 秒...
+[17:33:30] [INFO] 倒计时 1 秒...
+[17:33:31] [INFO] 资源清理完成，程序退出
+[17:33:55] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:33:55] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:33:55] [INFO] 开始分析并安装所有模块依赖...
+[17:33:55] [INFO] 发现 11 个依赖，开始检查安装...
+[17:33:55] [INFO] ===== 开始检查并安装依赖 =====
+[17:33:55] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:33:55] [INFO] 待检查的依赖: tkinter, multiprocessing, socket, pillow, keyboard, time, winreg, asyncio, queue, qrcode, aiohttp
+[17:33:55] [INFO] 执行内存清理...
+[17:33:55] [INFO] 内存清理完成: 系统使用率=35.8%, 进程使用=51.0MB
+[17:33:55] [INFO] 跳过安装标准库: tkinter
+[17:33:55] [INFO] 跳过安装标准库: multiprocessing
+[17:33:55] [INFO] 跳过安装标准库: socket
+[17:33:55] [INFO] 包未安装: pillow
+[17:33:55] [INFO] 执行内存清理...
+[17:33:55] [INFO] 内存清理完成: 系统使用率=35.8%, 进程使用=51.0MB
+[17:33:55] [INFO] 跳过安装标准库: keyboard
+[17:33:55] [INFO] 跳过安装标准库: time
+[17:33:55] [INFO] 跳过安装标准库: winreg
+[17:33:55] [INFO] 包已安装: asyncio
+[17:33:55] [INFO] 跳过安装标准库: queue
+[17:33:55] [INFO] 跳过安装标准库: qrcode
+[17:33:55] [INFO] 包已安装: aiohttp
+[17:33:55] [INFO] Python标准库: tkinter, multiprocessing, socket, keyboard, time, winreg, queue, qrcode
+[17:33:55] [INFO] 已安装的依赖: asyncio, aiohttp
+[17:33:55] [INFO] 需要安装的依赖: pillow
+[17:33:55] [INFO] ===== 开始安装第 1 批依赖 =====
+[17:33:55] [INFO] 批次依赖: pillow
+[17:33:55] [DEBUG] 内存状态: 系统使用率=35.8%, 进程使用=51.0MB
+[17:33:55] [INFO] ===== 开始安装包: pillow =====
+[17:33:55] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:33:55] [INFO] 安装依赖: True
+[17:33:55] [DEBUG] 内存状态: 系统使用率=35.8%, 进程使用=51.1MB
+[17:33:55] [INFO] 正在检查网络连接...
+[17:33:55] [INFO] 网络连接正常
+[17:33:55] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install pillow --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[17:33:55] [DEBUG] 子进程 4760 内存使用: 1.8MB
+[17:34:05] [DEBUG] 子进程 4760 内存使用: 3.5MB
+[17:34:08] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:34:08] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:34:08] [INFO] 开始分析并安装所有模块依赖...
+[17:34:08] [INFO] 发现 11 个依赖，开始检查安装...
+[17:34:08] [INFO] ===== 开始检查并安装依赖 =====
+[17:34:08] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:34:08] [INFO] 待检查的依赖: keyboard, multiprocessing, winreg, aiohttp, socket, time, queue, tkinter, asyncio, pillow, qrcode
+[17:34:08] [INFO] 执行内存清理...
+[17:34:08] [INFO] 内存清理完成: 系统使用率=36.6%, 进程使用=50.3MB
+[17:34:08] [INFO] 跳过安装标准库: keyboard
+[17:34:08] [INFO] 跳过安装标准库: multiprocessing
+[17:34:08] [INFO] 跳过安装标准库: winreg
+[17:34:08] [INFO] 包已安装: aiohttp
+[17:34:08] [INFO] 跳过安装标准库: socket
+[17:34:08] [INFO] 跳过安装标准库: time
+[17:34:08] [INFO] 跳过安装标准库: queue
+[17:34:08] [INFO] 跳过安装标准库: tkinter
+[17:34:08] [INFO] 包已安装: asyncio
+[17:34:08] [INFO] 包未安装: pillow
+[17:34:08] [INFO] 跳过安装标准库: qrcode
+[17:34:08] [INFO] Python标准库: keyboard, multiprocessing, winreg, socket, time, queue, tkinter, qrcode
+[17:34:08] [INFO] 已安装的依赖: aiohttp, asyncio
+[17:34:08] [INFO] 需要安装的依赖: pillow
+[17:34:08] [INFO] ===== 开始安装第 1 批依赖 =====
+[17:34:08] [INFO] 批次依赖: pillow
+[17:34:08] [DEBUG] 内存状态: 系统使用率=36.6%, 进程使用=51.0MB
+[17:34:08] [INFO] ===== 开始安装包: pillow =====
+[17:34:08] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[17:34:08] [INFO] 安装依赖: True
+[17:34:08] [DEBUG] 内存状态: 系统使用率=36.6%, 进程使用=51.1MB
+[17:34:08] [INFO] 正在检查网络连接...
+[17:34:09] [INFO] 网络连接正常
+[17:34:09] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install pillow --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[17:34:09] [DEBUG] 子进程 7332 内存使用: 1.8MB
+[17:34:19] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:34:24] [DEBUG] Collecting pillow
+[17:34:24] [DEBUG] Obtaining dependency information for pillow from https://files.pythonhosted.org/packages/f1/cc/29c0f5d64ab8eae20f3232da8f8571660aa0ab4b8f1331da5c2f5f9a938e/pillow-11.3.0-cp311-cp311-win_amd64.whl.metadata
+[17:34:25] [DEBUG] Downloading pillow-11.3.0-cp311-cp311-win_amd64.whl.metadata (9.2 kB)
+[17:34:25] [DEBUG] Downloading pillow-11.3.0-cp311-cp311-win_amd64.whl (7.0 MB)
+[17:34:29] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:34:39] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:34:49] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:34:59] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:35:09] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:35:19] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:35:29] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:35:39] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:35:49] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:35:59] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:36:09] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:36:19] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:36:29] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:36:39] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:36:49] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:36:59] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:37:09] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:37:19] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:37:29] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:37:39] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:37:49] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:37:59] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:38:08] [DEBUG] ---------------------------------------- 7.0/7.0 MB 31.9 kB/s eta 0:00:00
+[17:38:08] [DEBUG] Installing collected packages: pillow
+[17:38:09] [DEBUG] 子进程 7332 内存使用: 3.5MB
+[17:38:10] [DEBUG] Successfully installed pillow-11.3.0
+[17:38:10] [INFO] 命令返回码: 0
+[17:38:10] [ERROR] 安装后仍无法找到包 pillow
+[17:38:10] [INFO] ===== 包安装失败: pillow (未找到) =====
+[17:38:10] [INFO] 执行内存清理...
+[17:38:10] [INFO] 内存清理完成: 系统使用率=41.2%, 进程使用=52.2MB
+[17:38:10] [ERROR] 安装依赖 pillow 失败
+[17:38:10] [DEBUG] 内存状态: 系统使用率=41.1%, 进程使用=52.8MB
+[17:38:10] [INFO] ===== 第 1 批依赖安装完成 =====
+[17:38:10] [WARNING] 部分依赖安装失败，可能影响模块加载
+[17:38:10] [INFO] ===== 依赖检查完成 =====
+[17:38:10] [INFO] 执行内存清理...
+[17:38:10] [INFO] 内存清理完成: 系统使用率=41.1%, 进程使用=52.8MB
+[17:38:10] [INFO] 开始导入模块...
+[17:38:10] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[17:38:10] [INFO] 执行内存清理...
+[17:38:10] [INFO] 内存清理完成: 系统使用率=41.2%, 进程使用=52.8MB
+[17:38:10] [INFO] 开始导入模块...
+[17:38:10] [INFO] 尝试导入模块: csgo_dglab
+[17:38:10] [DEBUG] 内存状态: 系统使用率=41.2%, 进程使用=52.8MB
+[17:38:10] [WARNING] 开发环境导入模块 csgo_dglab 失败: No module named 'pillow'
+[17:38:10] [INFO] 尝试导入模块: keyboard_listen
+[17:38:10] [DEBUG] 内存状态: 系统使用率=41.2%, 进程使用=61.1MB
+[17:38:10] [SUCCESS] 成功导入模块 keyboard_listen
+[17:38:10] [INFO] 共导入 1 个模块
+[17:38:10] [INFO] 执行内存清理...
+[17:38:11] [INFO] 内存清理完成: 系统使用率=41.2%, 进程使用=62.6MB
+[17:38:11] [INFO] ===== 模块导入完成 =====
+[17:38:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[18:04:06] [INFO] 窗口关闭事件触发，开始清理...
+[18:04:06] [INFO] 程序开始清理资源...
+[18:04:06] [INFO] 等待资源完全释放...
+[18:04:06] [INFO] 倒计时 3 秒...
+[18:04:07] [INFO] 倒计时 2 秒...
+[18:04:08] [INFO] 倒计时 1 秒...
+[18:04:09] [INFO] 资源清理完成，程序退出
+[18:04:09] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:04:09] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:04:09] [INFO] 开始分析并安装所有模块依赖...
+[18:04:10] [INFO] 发现 11 个依赖，开始检查安装...
+[18:04:10] [INFO] ===== 开始检查并安装依赖 =====
+[18:04:10] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:04:10] [INFO] 待检查的依赖: keyboard, multiprocessing, pillow, queue, qrcode, asyncio, socket, tkinter, aiohttp, time, winreg
+[18:04:10] [INFO] 执行内存清理...
+[18:04:10] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=50.8MB
+[18:04:10] [INFO] 跳过安装标准库: keyboard
+[18:04:10] [INFO] 跳过安装标准库: multiprocessing
+[18:04:10] [INFO] 包未安装: pillow
+[18:04:10] [INFO] 执行内存清理...
+[18:04:10] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=51.5MB
+[18:04:10] [INFO] 跳过安装标准库: queue
+[18:04:10] [INFO] 跳过安装标准库: qrcode
+[18:04:10] [INFO] 包已安装: asyncio
+[18:04:10] [INFO] 跳过安装标准库: socket
+[18:04:10] [INFO] 跳过安装标准库: tkinter
+[18:04:10] [INFO] 包已安装: aiohttp
+[18:04:10] [INFO] 跳过安装标准库: time
+[18:04:10] [INFO] 跳过安装标准库: winreg
+[18:04:10] [INFO] Python标准库: keyboard, multiprocessing, queue, qrcode, socket, tkinter, time, winreg
+[18:04:10] [INFO] 已安装的依赖: asyncio, aiohttp
+[18:04:10] [INFO] 需要安装的依赖: pillow
+[18:04:10] [INFO] ===== 开始安装第 1 批依赖 =====
+[18:04:10] [INFO] 批次依赖: pillow
+[18:04:10] [DEBUG] 内存状态: 系统使用率=40.6%, 进程使用=51.5MB
+[18:04:10] [INFO] ===== 开始安装包: pillow =====
+[18:04:10] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:04:10] [INFO] 安装依赖: True
+[18:04:10] [DEBUG] 内存状态: 系统使用率=40.6%, 进程使用=51.6MB
+[18:04:10] [INFO] 正在检查网络连接...
+[18:04:10] [INFO] 网络连接正常
+[18:04:10] [INFO] 执行命令: D:\YingXIYa\Work\DGlab-punishment\venv311\Scripts\python.exe -m pip install pillow --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[18:04:10] [DEBUG] 子进程 25084 内存使用: 1.9MB
+[18:04:12] [DEBUG] Collecting pillow
+[18:04:12] [DEBUG] Obtaining dependency information for pillow from https://files.pythonhosted.org/packages/f1/cc/29c0f5d64ab8eae20f3232da8f8571660aa0ab4b8f1331da5c2f5f9a938e/pillow-11.3.0-cp311-cp311-win_amd64.whl.metadata
+[18:04:12] [DEBUG] Downloading pillow-11.3.0-cp311-cp311-win_amd64.whl.metadata (9.2 kB)
+[18:04:12] [DEBUG] Downloading pillow-11.3.0-cp311-cp311-win_amd64.whl (7.0 MB)
+[18:04:14] [DEBUG] ---------------------------------------- 7.0/7.0 MB 3.4 MB/s eta 0:00:00
+[18:04:15] [DEBUG] Installing collected packages: pillow
+[18:04:15] [DEBUG] Successfully installed pillow-11.3.0
+[18:04:15] [DEBUG] WARNING: Target directory C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib\PIL already exists. Specify --upgrade to force replacement.
+[18:04:15] [DEBUG] WARNING: Target directory C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib\pillow-11.3.0.dist-info already exists. Specify --upgrade to force replacement.
+[18:04:16] [INFO] 命令返回码: 0
+[18:04:16] [ERROR] 安装后仍无法找到包 pillow
+[18:04:16] [INFO] ===== 包安装失败: pillow (未找到) =====
+[18:04:16] [INFO] 执行内存清理...
+[18:04:16] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=53.1MB
+[18:04:16] [ERROR] 安装依赖 pillow 失败
+[18:04:16] [DEBUG] 内存状态: 系统使用率=40.5%, 进程使用=53.1MB
+[18:04:16] [INFO] ===== 第 1 批依赖安装完成 =====
+[18:04:16] [WARNING] 部分依赖安装失败，可能影响模块加载
+[18:04:16] [INFO] ===== 依赖检查完成 =====
+[18:04:16] [INFO] 执行内存清理...
+[18:04:16] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=53.1MB
+[18:04:16] [INFO] 开始导入模块...
+[18:04:16] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[18:04:16] [INFO] 执行内存清理...
+[18:04:16] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=53.1MB
+[18:04:16] [INFO] 开始导入模块...
+[18:04:16] [INFO] 尝试导入模块: csgo_dglab
+[18:04:16] [DEBUG] 内存状态: 系统使用率=40.5%, 进程使用=53.1MB
+[18:04:16] [WARNING] 开发环境导入模块 csgo_dglab 失败: No module named 'pillow'
+[18:04:16] [INFO] 尝试导入模块: keyboard_listen
+[18:04:16] [DEBUG] 内存状态: 系统使用率=40.5%, 进程使用=60.8MB
+[18:04:16] [SUCCESS] 成功导入模块 keyboard_listen
+[18:04:16] [INFO] 共导入 1 个模块
+[18:04:16] [INFO] 执行内存清理...
+[18:04:16] [INFO] 内存清理完成: 系统使用率=40.5%, 进程使用=62.4MB
+[18:04:16] [INFO] ===== 模块导入完成 =====
+[18:04:16] [SUCCESS] HTTP 服务器已于8000端口启动
+[18:08:35] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:08:35] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:08:35] [INFO] 开始分析并安装所有模块依赖...
+[18:08:35] [INFO] 发现 11 个依赖，开始检查安装...
+[18:08:35] [INFO] ===== 开始检查并安装依赖 =====
+[18:08:35] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:08:35] [INFO] 待检查的依赖: winreg, aiohttp, time, socket, asyncio, tkinter, queue, multiprocessing, qrcode, keyboard, PIL
+[18:08:35] [INFO] 执行内存清理...
+[18:08:35] [INFO] 内存清理完成: 系统使用率=35.7%, 进程使用=50.3MB
+[18:08:35] [INFO] 跳过安装标准库: winreg
+[18:08:35] [INFO] 包已安装: aiohttp
+[18:08:35] [INFO] 跳过安装标准库: time
+[18:08:35] [INFO] 跳过安装标准库: socket
+[18:08:35] [INFO] 包已安装: asyncio
+[18:08:35] [INFO] 跳过安装标准库: tkinter
+[18:08:35] [INFO] 跳过安装标准库: queue
+[18:08:35] [INFO] 跳过安装标准库: multiprocessing
+[18:08:35] [INFO] 跳过安装标准库: qrcode
+[18:08:35] [INFO] 跳过安装标准库: keyboard
+[18:08:35] [INFO] 包已安装: PIL
+[18:08:35] [INFO] Python标准库: winreg, time, socket, tkinter, queue, multiprocessing, qrcode, keyboard
+[18:08:35] [INFO] 已安装的依赖: aiohttp, asyncio, PIL
+[18:08:35] [SUCCESS] 所有依赖都已安装
+[18:08:35] [INFO] ===== 依赖检查完成 =====
+[18:08:35] [INFO] 开始导入模块...
+[18:08:35] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[18:08:35] [INFO] 执行内存清理...
+[18:08:35] [INFO] 内存清理完成: 系统使用率=35.7%, 进程使用=51.0MB
+[18:08:35] [INFO] 开始导入模块...
+[18:08:35] [INFO] 尝试导入模块: csgo_dglab
+[18:08:35] [DEBUG] 内存状态: 系统使用率=35.7%, 进程使用=51.0MB
+[18:08:35] [SUCCESS] 成功导入模块 csgo_dglab
+[18:08:35] [INFO] 尝试导入模块: keyboard_listen
+[18:08:35] [SUCCESS] 成功导入模块 keyboard_listen
+[18:08:35] [INFO] 共导入 2 个模块
+[18:08:35] [INFO] 执行内存清理...
+[18:08:35] [INFO] 内存清理完成: 系统使用率=35.8%, 进程使用=62.3MB
+[18:08:35] [INFO] ===== 模块导入完成 =====
+[18:08:35] [SUCCESS] HTTP 服务器已于8000端口启动
+[18:09:02] [INFO] 窗口关闭事件触发，开始清理...
+[18:09:02] [INFO] 程序开始清理资源...
+[18:09:02] [INFO] 等待资源完全释放...
+[18:09:02] [INFO] 倒计时 3 秒...
+[18:09:03] [INFO] 倒计时 2 秒...
+[18:09:04] [INFO] 倒计时 1 秒...
+[18:09:05] [INFO] 资源清理完成，程序退出
+[18:12:25] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:12:25] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:12:25] [INFO] 开始分析并安装所有模块依赖...
+[18:12:25] [INFO] 发现 11 个依赖，开始检查安装...
+[18:12:25] [INFO] ===== 开始检查并安装依赖 =====
+[18:12:25] [INFO] 目标目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[18:12:25] [INFO] 待检查的依赖: time, socket, asyncio, PIL, qrcode, aiohttp, keyboard, multiprocessing, tkinter, queue, winreg
+[18:12:25] [INFO] 执行内存清理...
+[18:12:25] [INFO] 内存清理完成: 系统使用率=38.0%, 进程使用=50.7MB
+[18:12:25] [INFO] 跳过安装标准库: time
+[18:12:25] [INFO] 跳过安装标准库: socket
+[18:12:25] [INFO] 包已安装: asyncio
+[18:12:25] [INFO] 包已安装: PIL
+[18:12:25] [INFO] 跳过安装标准库: qrcode
+[18:12:25] [INFO] 包已安装: aiohttp
+[18:12:25] [INFO] 跳过安装标准库: keyboard
+[18:12:25] [INFO] 跳过安装标准库: multiprocessing
+[18:12:25] [INFO] 跳过安装标准库: tkinter
+[18:12:25] [INFO] 跳过安装标准库: queue
+[18:12:25] [INFO] 跳过安装标准库: winreg
+[18:12:25] [INFO] Python标准库: time, socket, qrcode, keyboard, multiprocessing, tkinter, queue, winreg
+[18:12:25] [INFO] 已安装的依赖: asyncio, PIL, aiohttp
+[18:12:25] [SUCCESS] 所有依赖都已安装
+[18:12:25] [INFO] ===== 依赖检查完成 =====
+[18:12:25] [INFO] 开始导入模块...
+[18:12:25] [INFO] ===== 开始从目录导入模块: D:\YingXIYa\Work\DGlab-punishment\function =====
+[18:12:25] [INFO] 执行内存清理...
+[18:12:25] [INFO] 内存清理完成: 系统使用率=38.0%, 进程使用=50.7MB
+[18:12:25] [INFO] 开始导入模块...
+[18:12:25] [INFO] 尝试导入模块: csgo_dglab
+[18:12:25] [DEBUG] 内存状态: 系统使用率=38.0%, 进程使用=50.7MB
+[18:12:25] [SUCCESS] 成功导入模块 csgo_dglab
+[18:12:25] [INFO] 尝试导入模块: keyboard_listen
+[18:12:25] [SUCCESS] 成功导入模块 keyboard_listen
+[18:12:25] [INFO] 共导入 2 个模块
+[18:12:25] [INFO] 执行内存清理...
+[18:12:25] [INFO] 内存清理完成: 系统使用率=38.0%, 进程使用=62.4MB
+[18:12:25] [INFO] ===== 模块导入完成 =====
+[18:12:25] [SUCCESS] HTTP 服务器已于8000端口启动

@@ -1,0 +1,84 @@
+/* assets/styles.css */
+/* 基础样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+/* 选项卡样式 */
+.tab-btn {
+    position: relative;
+}
+
+.tab-btn.tab-active {
+    color: var(--primary);
+    border-bottom-color: var(--primary);
+}
+
+.tab-slider {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    background-color: var(--primary);
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+/* 面板样式 */
+.panel {
+    display: none;
+}
+
+.panel.panel-active {
+    display: block;
+}
+
+/* 动画效果 */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* 表格样式 */
+.module-table table {
+    width: 100%;
+}
+
+.module-table th,
+.module-table td {
+    padding: 12px 15px;
+}
+
+.module-table tr {
+    transition: background-color 0.2s ease;
+}
+
+.module-table tr:hover {
+    background-color: #f9fafb;
+}
+
+/* 响应式布局 */
+@media (max-width: 640px) {
+    .tab-container .tab-btn {
+        padding: 0.75rem 1rem;
+        font-size: 0.875rem;
+    }
+
+    .settings-form .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .module-table {
+        overflow-x: auto;
+    }
+
+    .module-table table {
+        min-width: 640px;
+    }
+}

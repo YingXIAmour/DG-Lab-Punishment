@@ -1,0 +1,1479 @@
+[14:13:53] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:13:53] HTTP 服务器已于8000端口启动
+[14:13:53] 程序被用户手动中断，正在进行清理操作...
+[14:42:17] [INFO] 获取程序运行目录……
+[14:42:17] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:42:17] [INFO] 获取程序运行目录……
+[14:42:17] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:42:17] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:42:17] [INFO] 获取程序运行目录……
+[14:42:17] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:42:17] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:46:06] [INFO] 程序被用户手动中断，正在进行清理操作...
+[14:46:07] [INFO] 获取程序运行目录……
+[14:46:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:46:07] [INFO] 获取程序运行目录……
+[14:46:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:46:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:46:07] [INFO] 获取程序运行目录……
+[14:46:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:46:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:46:15] [INFO] Server: 服务器模式：n-n
+[14:46:07] [INFO] 获取程序运行目录……
+[14:46:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:46:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:46:15] [INFO] Server: 服务器模式：n-n
+[14:46:18] [INFO] Server: 服务器在localhost上运行
+[14:46:07] [INFO] 获取程序运行目录……
+[14:46:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:46:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:46:15] [INFO] Server: 服务器模式：n-n
+[14:46:18] [INFO] Server: 服务器在localhost上运行
+[14:46:19] [INFO] Server: 连接信息：ws://localhost:1145
+[14:46:07] [INFO] 获取程序运行目录……
+[14:46:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:46:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:46:15] [INFO] Server: 服务器模式：n-n
+[14:46:18] [INFO] Server: 服务器在localhost上运行
+[14:46:19] [INFO] Server: 连接信息：ws://localhost:1145
+[14:46:39] [INFO] 程序被用户手动中断，正在进行清理操作...
+[14:52:50] [INFO] 获取程序运行目录……
+[14:52:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:52:50] [INFO] 获取程序运行目录……
+[14:52:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:52:51] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:52:50] [INFO] 获取程序运行目录……
+[14:52:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:52:51] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:54:14] [INFO] 程序被用户手动中断，正在进行清理操作...
+[14:54:15] [INFO] 获取程序运行目录……
+[14:54:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:54:15] [INFO] 获取程序运行目录……
+[14:54:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:54:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:54:15] [INFO] 获取程序运行目录……
+[14:54:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:54:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:14] [INFO] 程序被用户手动中断，正在进行清理操作...
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:52] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:52] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:54] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:52] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:54] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:52] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:54] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重连次数上限，程序退出
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:52] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:54] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重连次数上限，程序退出
+[14:55:59] [INFO] Client: 数据清除完毕
+[14:55:15] [INFO] 获取程序运行目录……
+[14:55:15] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:55:15] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:55:20] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[14:55:25] [INFO] Client: 初始连接出现其他异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:25] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重新连接出现异常: [Errno 11002] getaddrinfo failed
+[14:55:26] [INFO] Client: 重连次数上限，程序退出
+[14:55:34] [INFO] Client: 数据清除完毕
+[14:55:40] [INFO] Server: 服务器模式：n-n
+[14:55:41] [INFO] Server: 服务器在localhost上运行
+[14:55:41] [INFO] Server: 连接信息：ws://localhost:1145
+[14:55:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[14:55:45] [INFO] Client: 初始连接出现其他异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:47] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:50] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:52] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:54] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重新连接出现异常: [WinError 1225] 远程计算机拒绝网络连接。
+[14:55:56] [INFO] Client: 重连次数上限，程序退出
+[14:55:59] [INFO] Client: 数据清除完毕
+[14:57:38] [INFO] 程序被用户手动中断，正在进行清理操作...
+[14:57:39] [INFO] 获取程序运行目录……
+[14:57:39] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:57:39] [INFO] 获取程序运行目录……
+[14:57:39] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:57:40] [SUCCESS] HTTP 服务器已于8000端口启动
+[14:57:39] [INFO] 获取程序运行目录……
+[14:57:39] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[14:57:40] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:00:18] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:00:20] [INFO] 获取程序运行目录……
+[15:00:20] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:00:20] [INFO] 获取程序运行目录……
+[15:00:20] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:00:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:00:20] [INFO] 获取程序运行目录……
+[15:00:20] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:00:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:00:24] [INFO] Server: 服务器模式：n-n
+[15:00:20] [INFO] 获取程序运行目录……
+[15:00:20] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:00:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:00:24] [INFO] Server: 服务器模式：n-n
+[15:00:27] [INFO] Server: 服务器在192.168.31.217上运行
+[15:00:20] [INFO] 获取程序运行目录……
+[15:00:20] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:00:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:00:24] [INFO] Server: 服务器模式：n-n
+[15:00:27] [INFO] Server: 服务器在192.168.31.217上运行
+[15:00:28] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:00:20] [INFO] 获取程序运行目录……
+[15:00:20] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:00:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:00:24] [INFO] Server: 服务器模式：n-n
+[15:00:27] [INFO] Server: 服务器在192.168.31.217上运行
+[15:00:28] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:12:08] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:12:09] [INFO] 获取程序运行目录……
+[15:12:10] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:12:09] [INFO] 获取程序运行目录……
+[15:12:10] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:12:10] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:12:09] [INFO] 获取程序运行目录……
+[15:12:10] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:12:10] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:12:17] [INFO] Server: 服务器模式：n-n
+[15:12:09] [INFO] 获取程序运行目录……
+[15:12:10] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:12:10] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:12:17] [INFO] Server: 服务器模式：n-n
+[15:12:20] [INFO] Server: 服务器在192.168.31.217上运行
+[15:12:09] [INFO] 获取程序运行目录……
+[15:12:10] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:12:10] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:12:17] [INFO] Server: 服务器模式：n-n
+[15:12:20] [INFO] Server: 服务器在192.168.31.217上运行
+[15:12:20] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:12:09] [INFO] 获取程序运行目录……
+[15:12:10] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:12:10] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:12:17] [INFO] Server: 服务器模式：n-n
+[15:12:20] [INFO] Server: 服务器在192.168.31.217上运行
+[15:12:20] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:14:05] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:14:07] [INFO] 获取程序运行目录……
+[15:14:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:14:07] [INFO] 获取程序运行目录……
+[15:14:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:14:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:14:07] [INFO] 获取程序运行目录……
+[15:14:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:14:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:14:19] [INFO] Server: 服务器模式：n-n
+[15:14:07] [INFO] 获取程序运行目录……
+[15:14:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:14:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:14:19] [INFO] Server: 服务器模式：n-n
+[15:14:22] [INFO] Server: 服务器在192.168.31.217上运行
+[15:14:07] [INFO] 获取程序运行目录……
+[15:14:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:14:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:14:19] [INFO] Server: 服务器模式：n-n
+[15:14:22] [INFO] Server: 服务器在192.168.31.217上运行
+[15:14:22] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:14:07] [INFO] 获取程序运行目录……
+[15:14:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:14:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:14:19] [INFO] Server: 服务器模式：n-n
+[15:14:22] [INFO] Server: 服务器在192.168.31.217上运行
+[15:14:22] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:17:49] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:17:50] [INFO] 获取程序运行目录……
+[15:17:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:17:50] [INFO] 获取程序运行目录……
+[15:17:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:17:50] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:17:50] [INFO] 获取程序运行目录……
+[15:17:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:17:50] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:17:56] [INFO] Server: 服务器模式：n-n
+[15:17:50] [INFO] 获取程序运行目录……
+[15:17:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:17:50] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:17:56] [INFO] Server: 服务器模式：n-n
+[15:18:00] [INFO] Server: 服务器在192.168.31.217上运行
+[15:17:50] [INFO] 获取程序运行目录……
+[15:17:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:17:50] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:17:56] [INFO] Server: 服务器模式：n-n
+[15:18:00] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:00] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:17:50] [INFO] 获取程序运行目录……
+[15:17:50] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:17:50] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:17:56] [INFO] Server: 服务器模式：n-n
+[15:18:00] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:00] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:18:33] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:20:07] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:3fc7b203-c539-4ef3-a5a0-167a6d57fb56
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:20:07] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:3fc7b203-c539-4ef3-a5a0-167a6d57fb56
+[15:20:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:20:07] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:3fc7b203-c539-4ef3-a5a0-167a6d57fb56
+[15:20:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:20:07] [INFO] Client: 二维码已创建
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:20:07] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:3fc7b203-c539-4ef3-a5a0-167a6d57fb56
+[15:20:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:20:07] [INFO] Client: 二维码已创建
+[15:20:08] [INFO] Client: 收到心跳包
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:20:07] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:3fc7b203-c539-4ef3-a5a0-167a6d57fb56
+[15:20:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:20:07] [INFO] Client: 二维码已创建
+[15:20:08] [INFO] Client: 收到心跳包
+[15:20:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:18:34] [INFO] 获取程序运行目录……
+[15:18:34] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:18:34] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:18:43] [INFO] Server: 服务器模式：n-n
+[15:18:46] [INFO] Server: 服务器在192.168.31.217上运行
+[15:18:46] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:20:06] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:20:07] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:20:07] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:3fc7b203-c539-4ef3-a5a0-167a6d57fb56
+[15:20:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:20:07] [INFO] Client: 二维码已创建
+[15:20:08] [INFO] Client: 收到心跳包
+[15:20:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:20:37] [INFO] Client: 收到心跳包
+[15:23:11] [INFO] 获取程序运行目录……
+[15:23:11] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:23:11] [INFO] 获取程序运行目录……
+[15:23:11] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:23:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:23:11] [INFO] 获取程序运行目录……
+[15:23:11] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:23:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:23:23] [INFO] Server: 服务器模式：n-n
+[15:23:11] [INFO] 获取程序运行目录……
+[15:23:11] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:23:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:23:23] [INFO] Server: 服务器模式：n-n
+[15:23:27] [INFO] Server: 服务器在192.168.31.217上运行
+[15:23:11] [INFO] 获取程序运行目录……
+[15:23:11] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:23:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:23:23] [INFO] Server: 服务器模式：n-n
+[15:23:27] [INFO] Server: 服务器在192.168.31.217上运行
+[15:23:27] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:23:11] [INFO] 获取程序运行目录……
+[15:23:11] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:23:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:23:23] [INFO] Server: 服务器模式：n-n
+[15:23:27] [INFO] Server: 服务器在192.168.31.217上运行
+[15:23:27] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:24:04] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:24:06] [INFO] 获取程序运行目录……
+[15:24:06] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:06] [INFO] 获取程序运行目录……
+[15:24:06] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:06] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:06] [INFO] 获取程序运行目录……
+[15:24:06] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:06] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:09] [INFO] Server: 服务器模式：n-n
+[15:24:06] [INFO] 获取程序运行目录……
+[15:24:06] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:06] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:09] [INFO] Server: 服务器模式：n-n
+[15:24:13] [INFO] Server: 服务器在192.168.31.217上运行
+[15:24:06] [INFO] 获取程序运行目录……
+[15:24:06] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:06] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:09] [INFO] Server: 服务器模式：n-n
+[15:24:13] [INFO] Server: 服务器在192.168.31.217上运行
+[15:24:13] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:24:06] [INFO] 获取程序运行目录……
+[15:24:06] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:06] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:09] [INFO] Server: 服务器模式：n-n
+[15:24:13] [INFO] Server: 服务器在192.168.31.217上运行
+[15:24:13] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:24:48] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:24:49] [INFO] 获取程序运行目录……
+[15:24:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:49] [INFO] 获取程序运行目录……
+[15:24:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:49] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:49] [INFO] 获取程序运行目录……
+[15:24:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:49] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:56] [INFO] Server: 服务器模式：n-n
+[15:24:49] [INFO] 获取程序运行目录……
+[15:24:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:49] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:56] [INFO] Server: 服务器模式：n-n
+[15:24:59] [INFO] Server: 服务器在192.168.31.217上运行
+[15:24:49] [INFO] 获取程序运行目录……
+[15:24:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:49] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:56] [INFO] Server: 服务器模式：n-n
+[15:24:59] [INFO] Server: 服务器在192.168.31.217上运行
+[15:24:59] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:24:49] [INFO] 获取程序运行目录……
+[15:24:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:24:49] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:24:56] [INFO] Server: 服务器模式：n-n
+[15:24:59] [INFO] Server: 服务器在192.168.31.217上运行
+[15:24:59] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:25:37] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:25:38] [INFO] 获取程序运行目录……
+[15:25:38] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:25:38] [INFO] 获取程序运行目录……
+[15:25:38] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:25:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:25:38] [INFO] 获取程序运行目录……
+[15:25:38] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:25:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:25:45] [INFO] Server: 服务器模式：n-n
+[15:25:38] [INFO] 获取程序运行目录……
+[15:25:38] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:25:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:25:45] [INFO] Server: 服务器模式：n-n
+[15:25:49] [INFO] Server: 服务器在192.168.31.217上运行
+[15:25:38] [INFO] 获取程序运行目录……
+[15:25:38] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:25:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:25:45] [INFO] Server: 服务器模式：n-n
+[15:25:49] [INFO] Server: 服务器在192.168.31.217上运行
+[15:25:49] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:25:38] [INFO] 获取程序运行目录……
+[15:25:38] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:25:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:25:45] [INFO] Server: 服务器模式：n-n
+[15:25:49] [INFO] Server: 服务器在192.168.31.217上运行
+[15:25:49] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:13] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:37] [INFO] Client: 二维码已创建
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:37] [INFO] Client: 二维码已创建
+[15:26:37] [INFO] Client: 收到心跳包
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:37] [INFO] Client: 二维码已创建
+[15:26:37] [INFO] Client: 收到心跳包
+[15:27:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:37] [INFO] Client: 二维码已创建
+[15:26:37] [INFO] Client: 收到心跳包
+[15:27:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:27:07] [INFO] Client: 收到心跳包
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:37] [INFO] Client: 二维码已创建
+[15:26:37] [INFO] Client: 收到心跳包
+[15:27:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:27:07] [INFO] Client: 收到心跳包
+[15:27:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:14] [INFO] 获取程序运行目录……
+[15:26:14] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:26:14] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:26:19] [INFO] Server: 服务器模式：n-n
+[15:26:23] [INFO] Server: 服务器在192.168.31.217上运行
+[15:26:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:26:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:26:37] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:020f892e-328d-4c9c-a4dc-cf6bd865979f
+[15:26:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:26:37] [INFO] Client: 二维码已创建
+[15:26:37] [INFO] Client: 收到心跳包
+[15:27:07] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:27:07] [INFO] Client: 收到心跳包
+[15:27:37] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:27:37] [INFO] Client: 收到心跳包
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道A，强度设置为0
+[15:28:39] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道A，强度设置为0
+[15:28:39] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道B，强度设置为0
+[15:28:40] [INFO] Client: APP未连接
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道A，强度设置为0
+[15:28:39] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道B，强度设置为0
+[15:28:40] [INFO] Client: APP未连接
+[15:28:42] [INFO] CSGO: 监听已关闭
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道A，强度设置为0
+[15:28:39] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道B，强度设置为0
+[15:28:40] [INFO] Client: APP未连接
+[15:28:42] [INFO] CSGO: 监听已关闭
+[15:28:50] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道A，强度设置为0
+[15:28:39] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道B，强度设置为0
+[15:28:40] [INFO] Client: APP未连接
+[15:28:42] [INFO] CSGO: 监听已关闭
+[15:28:50] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:50] [INFO] Client: 收到心跳包
+[15:27:59] [INFO] 获取程序运行目录……
+[15:27:59] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:27:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:28:14] [INFO] Server: 服务器模式：n-n
+[15:28:17] [INFO] Server: 服务器在192.168.31.217上运行
+[15:28:17] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[15:28:19] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[15:28:20] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:313180a8-afa2-41bc-8115-17bcf4927dca
+[15:28:20] [INFO] Client: 已连接到服务端，开始接收消息...
+[15:28:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:20] [INFO] Client: 二维码已创建
+[15:28:21] [INFO] Client: 收到心跳包
+[15:28:23] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[15:28:23] [INFO] CSGO: 自动导入cfg成功
+[15:28:23] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[15:28:27] [INFO] 通道A，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:27] [INFO] 通道B，强度设置为0
+[15:28:27] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道A，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:30] [INFO] 通道B，强度设置为0
+[15:28:30] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道A，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:33] [INFO] 通道B，强度设置为0
+[15:28:33] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道A，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:36] [INFO] 通道B，强度设置为0
+[15:28:36] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道A，强度设置为0
+[15:28:39] [INFO] Client: APP未连接
+[15:28:39] [INFO] 通道B，强度设置为0
+[15:28:40] [INFO] Client: APP未连接
+[15:28:42] [INFO] CSGO: 监听已关闭
+[15:28:50] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[15:28:50] [INFO] Client: 收到心跳包
+[15:29:16] [INFO] 程序被用户手动中断，正在进行清理操作...
+[15:50:58] [INFO] 获取程序运行目录……
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:50:58] [INFO] 获取程序运行目录……
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\csgo_dglab.py: No module named 'aiohttp'
+[15:50:58] [INFO] 获取程序运行目录……
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\csgo_dglab.py: No module named 'aiohttp'
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\keyboard_listen.py: No module named 'keyboard'
+[15:50:58] [INFO] 获取程序运行目录……
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\csgo_dglab.py: No module named 'aiohttp'
+[15:50:58] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\keyboard_listen.py: No module named 'keyboard'
+[15:50:58] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:55:07] [INFO] 获取程序运行目录……
+[15:55:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:55:07] [INFO] 获取程序运行目录……
+[15:55:07] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:55:07] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:57:21] [INFO] 获取程序运行目录……
+[15:57:21] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:57:21] [INFO] 获取程序运行目录……
+[15:57:21] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:57:21] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:57:36] [INFO] 获取程序运行目录……
+[15:57:36] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:57:36] [INFO] 获取程序运行目录……
+[15:57:36] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:57:36] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:58:49] [INFO] 获取程序运行目录……
+[15:58:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:58:49] [INFO] 获取程序运行目录……
+[15:58:49] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:58:49] [SUCCESS] HTTP 服务器已于8000端口启动
+[15:59:22] [INFO] 获取程序运行目录……
+[15:59:22] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:59:22] [INFO] 获取程序运行目录……
+[15:59:22] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[15:59:23] [SUCCESS] HTTP 服务器已于8000端口启动
+[16:01:25] [INFO] 获取程序运行目录……
+[16:01:25] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[16:01:25] [INFO] 获取程序运行目录……
+[16:01:25] [WARNING] 加载模块出错 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\function\bilibiliClient.py: No module named 'flask'
+[16:01:25] [SUCCESS] HTTP 服务器已于8000端口启动

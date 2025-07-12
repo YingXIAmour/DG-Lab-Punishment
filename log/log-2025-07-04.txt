@@ -1,0 +1,781 @@
+[21:05:53] [INFO] 通道A，强度增加：20
+03:18:37] [INFO] Client: APP未连接
+为0
+[03:18:37] [INFO] 通道B，强度设置为0
+[03:18:40] [INFO] 通道A，强度设置为0
+[03:18:40] [INFO] 通道B，强度设置为0
+[03:18:41] [INFO] Client: APP未连接
+[03:18:41] [INFO] Client: APP未连接
+[03:18:43] [INFO] 通道A，强度设置为0
+[03:18:43] [INFO] Client: APP未连接
+[03:18:44] [INFO] 通道B，强度设置为0
+[03:18:47] [INFO] Client: APP未连接
+为0
+[03:18:47] [INFO] Client: APP未连接
+[03:18:50] [INFO] CSGO: 监听已关闭
+[03:18:50] [INFO] 通道A，强度设置为0
+[03:18:50] [INFO] 通道B，强度设置为0
+[03:18:50] [INFO] Client: APP未连接
+[03:18:50] [INFO] Client: APP未连接
+[03:18:50] [INFO] CSGO: 正在关闭HTTP服务器...
+[03:18:50] [INFO] CSGO: HTTP服务器已关闭
+[03:18:50] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:18:50] [INFO] Client: 收到心跳包
+[03:19:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:19:20] [INFO] Client: 收到心跳包
+[03:19:50] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:19:50] [INFO] Client: 收到心跳包
+[03:19:57] [WARNING] 异常消息: {'action': 'client', 'saso': 'stop', 'queue': <queue.Queue object at 0x0000018DD47EDA10>}
+[03:19:59] [INFO] Client: 接收消息任务已取消
+[03:19:59] [INFO] Client: 初始连接出现其他异常: 'ClientConnection' object has no attribute 'closed'
+[03:20:20] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:20:23] [INFO] Server: 心跳包发送超时！客户端连接异常：c91641d7-9d1c-459b-84b0-9d1e1a450b1b
+[03:20:23] [INFO] Server: WebSocket 连接已关闭 断开的client id:c91641d7-9d1c-459b-84b0-9d1e1a450b1b
+[03:20:23] [INFO] Server: 已清除c91641d7-9d1c-459b-84b0-9d1e1a450b1b,当前len：0
+[03:21:04] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[03:21:04] [INFO] 开始分析并安装所有模块依赖...
+[03:21:04] [INFO] 发现 17 个依赖，开始检查安装...
+[03:21:04] [INFO] 跳过安装标准库: socket
+[03:21:04] [INFO] 跳过安装标准库: winreg
+[03:21:04] [INFO] 跳过安装标准库: qrcode
+[03:21:04] [INFO] 跳过安装标准库: queue
+[03:21:04] [INFO] 跳过安装标准库: tkinter
+[03:21:04] [INFO] 跳过安装标准库: threading
+[03:21:04] [INFO] 跳过安装标准库: multiprocessing
+[03:21:04] [INFO] 跳过安装标准库: time
+[03:21:04] [INFO] 跳过安装标准库: PIL
+[03:21:04] [INFO] Python标准库: socket, winreg, qrcode, queue, tkinter, threading, multiprocessing, time, PIL
+[03:21:04] [INFO] 已安装的依赖: bilibili_api, flask_socketio, asyncio, keyboard, xpinyin, flask, flask_cors, aiohttp
+[03:21:04] [INFO] 开始导入模块...
+[03:21:04] [INFO] 模块 bilibiliClient 无main函数
+[03:21:04] [SUCCESS] 成功导入模块 csgo_dglab
+[03:21:04] [SUCCESS] 成功导入模块 keyboard_listen
+[03:21:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[03:21:07] [INFO] Server: 服务器模式：n-n
+[03:21:07] [INFO] Server: 服务器在192.168.31.217上运行
+[03:21:07] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[03:21:08] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[03:21:08] [INFO] Client: 已连接到服务端，开始接收消息...
+[03:21:08] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:bcb16ac7-973e-4466-acf5-f068c3df5a6b
+[03:21:08] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:21:08] [INFO] Client: 二维码已创建
+[03:21:08] [INFO] Client: 收到心跳包
+[03:21:09] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[03:21:09] [INFO] CSGO: 自动导入cfg成功
+[03:21:09] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[03:21:12] [INFO] 通道A，强度设置为0
+[03:21:12] [INFO] Client: APP未连接
+[03:21:12] [INFO] Client: APP未连接
+[03:21:12] [INFO] CSGO: 监听已关闭
+[03:21:13] [INFO] CSGO: 正在关闭HTTP服务器...
+[03:21:13] [INFO] CSGO: HTTP服务器已关闭
+[03:21:16] [INFO] CSGO: 已找到 CS2 安装路径: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
+[03:21:16] [INFO] CSGO: 自动导入cfg成功
+[03:21:16] [INFO] CSGO: HTTP服务器已启动，监听端口 3000
+[03:21:18] [INFO] CSGO: 监听已关闭
+[03:21:19] [INFO] 通道A，强度设置为0
+[03:21:19] [INFO] CSGO: 正在关闭HTTP服务器...
+[03:21:19] [INFO] CSGO: HTTP服务器已关闭
+[03:21:38] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:21:38] [INFO] Client: 收到心跳包
+[03:22:20] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[03:22:20] [INFO] 开始分析并安装所有模块依赖...
+[03:22:20] [INFO] 发现 17 个依赖，开始检查安装...
+[03:22:20] [INFO] 跳过安装标准库: socket
+[03:22:20] [INFO] 跳过安装标准库: qrcode
+[03:22:20] [INFO] 跳过安装标准库: multiprocessing
+[03:22:20] [INFO] 跳过安装标准库: queue
+[03:22:20] [INFO] 跳过安装标准库: winreg
+[03:22:20] [INFO] 跳过安装标准库: tkinter
+[03:22:20] [INFO] 跳过安装标准库: PIL
+[03:22:20] [INFO] 跳过安装标准库: time
+[03:22:20] [INFO] 跳过安装标准库: threading
+[03:22:20] [INFO] Python标准库: socket, qrcode, multiprocessing, queue, winreg, tkinter, PIL, time, threading
+[03:22:20] [INFO] 已安装的依赖: flask, flask_socketio, aiohttp, flask_cors, asyncio, xpinyin, bilibili_api, keyboard
+[03:22:20] [INFO] 开始导入模块...
+[03:22:21] [INFO] 模块 bilibiliClient 无main函数
+[03:22:21] [SUCCESS] 成功导入模块 csgo_dglab
+[03:22:21] [SUCCESS] 成功导入模块 keyboard_listen
+[03:22:21] [SUCCESS] HTTP 服务器已于8000端口启动
+[03:22:23] [INFO] Server: 服务器模式：n-n
+[03:22:23] [INFO] Server: 服务器在192.168.31.217上运行
+[03:22:23] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[03:22:23] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[03:22:23] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:9b1c9e1b-beb9-44e6-b91b-83eb0db72afb
+[03:22:23] [INFO] Client: 已连接到服务端，开始接收消息...
+[03:22:23] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:22:23] [INFO] Client: 二维码已创建
+[03:22:23] [INFO] Client: 收到心跳包
+[03:22:26] [INFO] Client: 接收消息任务已取消
+[03:22:26] [INFO] Client: 初始连接出现其他异常: 'ClientConnection' object has no attribute 'closed'
+[03:22:53] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:23:13] [INFO] Server: WebSocket 连接已关闭 断开的client id:9b1c9e1b-beb9-44e6-b91b-83eb0db72afb
+[03:23:13] [INFO] Server: 已清除9b1c9e1b-beb9-44e6-b91b-83eb0db72afb,当前len：0
+[03:23:38] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[03:23:38] [INFO] 开始分析并安装所有模块依赖...
+[03:23:38] [INFO] 发现 17 个依赖，开始检查安装...
+[03:23:38] [INFO] 跳过安装标准库: threading
+[03:23:38] [INFO] 跳过安装标准库: multiprocessing
+[03:23:38] [INFO] 跳过安装标准库: socket
+[03:23:38] [INFO] 跳过安装标准库: tkinter
+[03:23:38] [INFO] 跳过安装标准库: winreg
+[03:23:38] [INFO] 跳过安装标准库: time
+[03:23:38] [INFO] 跳过安装标准库: qrcode
+[03:23:38] [INFO] 跳过安装标准库: PIL
+[03:23:38] [INFO] 跳过安装标准库: queue
+[03:23:38] [INFO] Python标准库: threading, multiprocessing, socket, tkinter, winreg, time, qrcode, PIL, queue
+[03:23:38] [INFO] 已安装的依赖: asyncio, aiohttp, flask_socketio, xpinyin, keyboard, flask, bilibili_api, flask_cors
+[03:23:38] [INFO] 开始导入模块...
+[03:23:38] [INFO] 模块 bilibiliClient 无main函数
+[03:23:38] [SUCCESS] 成功导入模块 csgo_dglab
+[03:23:38] [SUCCESS] 成功导入模块 keyboard_listen
+[03:23:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[03:23:40] [INFO] Server: 服务器模式：n-n
+[03:23:40] [INFO] Server: 服务器在192.168.31.217上运行
+[03:23:40] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[03:23:41] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[03:23:41] [INFO] Client: 已连接到服务端，开始接收消息...
+[03:23:41] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:4a212d90-33a1-4f4d-893c-c2b06939d345
+[03:23:41] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:23:41] [INFO] Client: 二维码已创建
+[03:23:41] [INFO] Client: 收到心跳包
+[03:23:44] [INFO] Client: 接收消息任务已取消
+[03:24:11] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[03:24:31] [INFO] Server: WebSocket 连接已关闭 断开的client id:4a212d90-33a1-4f4d-893c-c2b06939d345
+[03:24:31] [INFO] Server: 已清除4a212d90-33a1-4f4d-893c-c2b06939d345,当前len：0
+[20:46:10] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:46:10] [INFO] 开始分析并安装所有模块依赖...
+[20:46:10] [INFO] 发现 17 个依赖，开始检查安装...
+[20:46:10] [INFO] 跳过安装标准库: socket
+[20:46:10] [INFO] 跳过安装标准库: multiprocessing
+[20:46:10] [INFO] 跳过安装标准库: winreg
+[20:46:10] [INFO] 跳过安装标准库: time
+[20:46:10] [INFO] 跳过安装标准库: threading
+[20:46:10] [INFO] 跳过安装标准库: tkinter
+[20:46:10] [INFO] 跳过安装标准库: PIL
+[20:46:10] [INFO] 跳过安装标准库: queue
+[20:46:10] [INFO] 跳过安装标准库: qrcode
+[20:46:10] [INFO] Python标准库: socket, multiprocessing, winreg, time, threading, tkinter, PIL, queue, qrcode
+[20:46:10] [INFO] 已安装的依赖: bilibili_api, flask, xpinyin, asyncio, aiohttp, keyboard, flask_cors, flask_socketio
+[20:46:10] [INFO] 开始导入模块...
+[20:46:10] [INFO] 模块 bilibiliClient 无main函数
+[20:46:10] [SUCCESS] 成功导入模块 csgo_dglab
+[20:46:10] [SUCCESS] 成功导入模块 keyboard_listen
+[20:46:10] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:46:14] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[20:46:15] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:46:15] [INFO] Client: 二维码已创建
+[20:46:51] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:46:51] [INFO] 开始分析并安装所有模块依赖...
+[20:46:51] [INFO] 发现 17 个依赖，开始检查安装...
+[20:46:51] [INFO] 跳过安装标准库: queue
+[20:46:51] [INFO] 跳过安装标准库: tkinter
+[20:46:51] [INFO] 跳过安装标准库: threading
+[20:46:51] [INFO] 跳过安装标准库: multiprocessing
+[20:46:51] [INFO] 跳过安装标准库: PIL
+[20:46:51] [INFO] 跳过安装标准库: qrcode
+[20:46:51] [INFO] 跳过安装标准库: time
+[20:46:51] [INFO] 跳过安装标准库: winreg
+[20:46:51] [INFO] 跳过安装标准库: socket
+[20:46:51] [INFO] Python标准库: queue, tkinter, threading, multiprocessing, PIL, qrcode, time, winreg, socket
+[20:46:51] [INFO] 已安装的依赖: aiohttp, xpinyin, flask_socketio, keyboard, asyncio, flask_cors, flask, bilibili_api
+[20:46:51] [INFO] 开始导入模块...
+[20:46:51] [INFO] 模块 bilibiliClient 无main函数
+[20:46:51] [SUCCESS] 成功导入模块 csgo_dglab
+[20:46:51] [SUCCESS] 成功导入模块 keyboard_listen
+[20:46:51] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:46:56] [INFO] Server: 服务器模式：n-n
+[20:46:56] [INFO] Server: 服务器在192.168.31.217上运行
+[20:46:56] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[20:46:57] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[20:46:57] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:46:57] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:1c550586-17e2-4a9d-b030-974107618352
+[20:46:57] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[20:46:57] [INFO] Client: 二维码已创建
+[20:46:57] [INFO] Client: 收到心跳包
+[20:47:20] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:47:20] [INFO] 开始分析并安装所有模块依赖...
+[20:47:20] [INFO] 发现 17 个依赖，开始检查安装...
+[20:47:20] [INFO] 跳过安装标准库: PIL
+[20:47:20] [INFO] 跳过安装标准库: socket
+[20:47:20] [INFO] 跳过安装标准库: winreg
+[20:47:20] [INFO] 跳过安装标准库: tkinter
+[20:47:20] [INFO] 跳过安装标准库: multiprocessing
+[20:47:20] [INFO] 跳过安装标准库: qrcode
+[20:47:20] [INFO] 跳过安装标准库: threading
+[20:47:20] [INFO] 跳过安装标准库: time
+[20:47:20] [INFO] 跳过安装标准库: queue
+[20:47:20] [INFO] Python标准库: PIL, socket, winreg, tkinter, multiprocessing, qrcode, threading, time, queue
+[20:47:20] [INFO] 已安装的依赖: bilibili_api, flask_socketio, flask, asyncio, xpinyin, aiohttp, flask_cors, keyboard
+[20:47:20] [INFO] 开始导入模块...
+[20:47:20] [INFO] 模块 bilibiliClient 无main函数
+[20:47:20] [SUCCESS] 成功导入模块 csgo_dglab
+[20:47:20] [SUCCESS] 成功导入模块 keyboard_listen
+[20:47:20] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:47:22] [INFO] Server: 服务器模式：n-n
+[20:47:22] [INFO] Server: 服务器在192.168.31.217上运行
+[20:47:22] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[20:47:23] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[20:47:23] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:f091c5f5-64cf-4f01-81d5-7957bbe56b6a
+[20:47:23] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:47:23] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[20:47:23] [INFO] Client: 二维码已创建
+[20:47:23] [INFO] Client: 收到心跳包
+[20:48:26] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:48:26] [INFO] 开始分析并安装所有模块依赖...
+[20:48:26] [INFO] 发现 17 个依赖，开始检查安装...
+[20:48:26] [INFO] 跳过安装标准库: threading
+[20:48:26] [INFO] 跳过安装标准库: winreg
+[20:48:26] [INFO] 跳过安装标准库: socket
+[20:48:26] [INFO] 跳过安装标准库: qrcode
+[20:48:26] [INFO] 跳过安装标准库: multiprocessing
+[20:48:26] [INFO] 跳过安装标准库: tkinter
+[20:48:26] [INFO] 跳过安装标准库: time
+[20:48:26] [INFO] 跳过安装标准库: PIL
+[20:48:26] [INFO] 跳过安装标准库: queue
+[20:48:26] [INFO] Python标准库: threading, winreg, socket, qrcode, multiprocessing, tkinter, time, PIL, queue
+[20:48:26] [INFO] 已安装的依赖: flask_socketio, bilibili_api, aiohttp, keyboard, asyncio, flask_cors, flask, xpinyin
+[20:48:26] [INFO] 开始导入模块...
+[20:48:27] [INFO] 模块 bilibiliClient 无main函数
+[20:48:27] [SUCCESS] 成功导入模块 csgo_dglab
+[20:48:27] [SUCCESS] 成功导入模块 keyboard_listen
+[20:48:27] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:48:29] [INFO] Server: 服务器模式：n-n
+[20:48:29] [INFO] Server: 服务器在192.168.31.217上运行
+[20:48:29] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[20:48:29] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[20:48:29] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:48:29] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:8d1ea5c0-90cd-416d-bf7e-7e2d67d99ce5
+[20:48:29] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[20:48:29] [INFO] Client: 二维码已创建
+[20:48:29] [INFO] Client: 收到心跳包
+[20:48:31] [INFO] 窗口关闭事件触发，开始清理...
+[20:48:31] [INFO] 程序开始清理资源...
+[20:48:33] [INFO] 客户端已停止
+[20:48:33] [INFO] Server: WebSocket Server正在关闭
+[20:48:34] [INFO] 等待资源完全释放...
+[20:48:34] [INFO] 倒计时 3 秒...
+[20:48:35] [INFO] 倒计时 2 秒...
+[20:48:36] [INFO] 倒计时 1 秒...
+[20:48:37] [INFO] 资源清理完成，程序退出
+[20:49:13] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:49:13] [INFO] 开始分析并安装所有模块依赖...
+[20:49:13] [INFO] 发现 17 个依赖，开始检查安装...
+[20:49:13] [INFO] 跳过安装标准库: threading
+[20:49:13] [INFO] 跳过安装标准库: queue
+[20:49:13] [INFO] 跳过安装标准库: qrcode
+[20:49:13] [INFO] 跳过安装标准库: multiprocessing
+[20:49:13] [INFO] 跳过安装标准库: time
+[20:49:13] [INFO] 跳过安装标准库: tkinter
+[20:49:13] [INFO] 跳过安装标准库: winreg
+[20:49:13] [INFO] 跳过安装标准库: PIL
+[20:49:13] [INFO] 跳过安装标准库: socket
+[20:49:13] [INFO] Python标准库: threading, queue, qrcode, multiprocessing, time, tkinter, winreg, PIL, socket
+[20:49:13] [INFO] 已安装的依赖: asyncio, xpinyin, keyboard, flask_cors, aiohttp, flask_socketio, flask, bilibili_api
+[20:49:13] [INFO] 开始导入模块...
+[20:49:13] [INFO] 模块 bilibiliClient 无main函数
+[20:49:13] [SUCCESS] 成功导入模块 csgo_dglab
+[20:49:13] [SUCCESS] 成功导入模块 keyboard_listen
+[20:49:13] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:49:19] [INFO] 窗口关闭事件触发，开始清理...
+[20:49:19] [INFO] 程序开始清理资源...
+[20:49:19] [INFO] 等待资源完全释放...
+[20:49:19] [INFO] 倒计时 3 秒...
+[20:49:20] [INFO] 倒计时 2 秒...
+[20:49:21] [INFO] 倒计时 1 秒...
+[20:49:22] [INFO] 资源清理完成，程序退出
+[20:49:31] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:49:31] [INFO] 开始分析并安装所有模块依赖...
+[20:49:31] [INFO] 发现 17 个依赖，开始检查安装...
+[20:49:31] [INFO] 跳过安装标准库: queue
+[20:49:31] [INFO] 跳过安装标准库: PIL
+[20:49:31] [INFO] 跳过安装标准库: time
+[20:49:31] [INFO] 跳过安装标准库: multiprocessing
+[20:49:31] [INFO] 跳过安装标准库: threading
+[20:49:31] [INFO] 跳过安装标准库: tkinter
+[20:49:31] [INFO] 跳过安装标准库: socket
+[20:49:31] [INFO] 跳过安装标准库: winreg
+[20:49:31] [INFO] 跳过安装标准库: qrcode
+[20:49:31] [INFO] Python标准库: queue, PIL, time, multiprocessing, threading, tkinter, socket, winreg, qrcode
+[20:49:31] [INFO] 已安装的依赖: flask, bilibili_api, flask_socketio, asyncio, flask_cors, xpinyin, aiohttp, keyboard
+[20:49:31] [INFO] 开始导入模块...
+[20:49:31] [INFO] 模块 bilibiliClient 无main函数
+[20:49:31] [SUCCESS] 成功导入模块 csgo_dglab
+[20:49:31] [SUCCESS] 成功导入模块 keyboard_listen
+[20:49:31] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:49:34] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[20:49:34] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:49:34] [INFO] Client: 二维码已创建
+[20:49:41] [INFO] 窗口关闭事件触发，开始清理...
+[20:49:41] [INFO] 程序开始清理资源...
+[20:49:41] [INFO] 等待资源完全释放...
+[20:49:41] [INFO] 倒计时 3 秒...
+[20:49:42] [INFO] 倒计时 2 秒...
+[20:49:43] [INFO] 倒计时 1 秒...
+[20:49:44] [INFO] 资源清理完成，程序退出
+[20:51:37] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:51:37] [INFO] 开始分析并安装所有模块依赖...
+[20:51:37] [INFO] 发现 17 个依赖，开始检查安装...
+[20:51:37] [INFO] 跳过安装标准库: winreg
+[20:51:37] [INFO] 跳过安装标准库: threading
+[20:51:37] [INFO] 跳过安装标准库: tkinter
+[20:51:37] [INFO] 跳过安装标准库: PIL
+[20:51:37] [INFO] 跳过安装标准库: time
+[20:51:37] [INFO] 跳过安装标准库: queue
+[20:51:37] [INFO] 跳过安装标准库: socket
+[20:51:37] [INFO] 跳过安装标准库: qrcode
+[20:51:37] [INFO] 跳过安装标准库: multiprocessing
+[20:51:37] [INFO] Python标准库: winreg, threading, tkinter, PIL, time, queue, socket, qrcode, multiprocessing
+[20:51:37] [INFO] 已安装的依赖: aiohttp, bilibili_api, xpinyin, flask, keyboard, flask_cors, flask_socketio, asyncio
+[20:51:37] [INFO] 开始导入模块...
+[20:51:38] [INFO] 模块 bilibiliClient 无main函数
+[20:51:38] [SUCCESS] 成功导入模块 csgo_dglab
+[20:51:38] [SUCCESS] 成功导入模块 keyboard_listen
+[20:51:38] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:51:40] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[20:51:40] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:51:40] [INFO] Client: 二维码已创建
+[20:51:43] [WARNING] 客户端关闭异常
+[20:52:18] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:52:18] [INFO] 开始分析并安装所有模块依赖...
+[20:52:18] [INFO] 发现 17 个依赖，开始检查安装...
+[20:52:18] [INFO] 跳过安装标准库: threading
+[20:52:18] [INFO] 跳过安装标准库: queue
+[20:52:18] [INFO] 跳过安装标准库: socket
+[20:52:18] [INFO] 跳过安装标准库: qrcode
+[20:52:18] [INFO] 跳过安装标准库: tkinter
+[20:52:18] [INFO] 跳过安装标准库: multiprocessing
+[20:52:18] [INFO] 跳过安装标准库: time
+[20:52:18] [INFO] 跳过安装标准库: winreg
+[20:52:18] [INFO] 跳过安装标准库: PIL
+[20:52:18] [INFO] Python标准库: threading, queue, socket, qrcode, tkinter, multiprocessing, time, winreg, PIL
+[20:52:18] [INFO] 已安装的依赖: flask, keyboard, flask_socketio, asyncio, aiohttp, xpinyin, bilibili_api, flask_cors
+[20:52:18] [INFO] 开始导入模块...
+[20:52:19] [INFO] 模块 bilibiliClient 无main函数
+[20:52:19] [SUCCESS] 成功导入模块 csgo_dglab
+[20:52:19] [SUCCESS] 成功导入模块 keyboard_listen
+[20:52:19] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:52:22] [INFO] Server: 服务器模式：n-n
+[20:52:22] [INFO] Server: 服务器在192.168.31.217上运行
+[20:52:22] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[20:52:23] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[20:52:23] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:62dfcdad-0155-45f4-b465-c401fd2d5eb6
+[20:52:23] [INFO] Client: 已连接到服务端，开始接收消息...
+[20:52:23] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[20:52:23] [INFO] Client: 二维码已创建
+[20:52:23] [INFO] Client: 收到心跳包
+[20:52:24] [WARNING] 客户端关闭异常
+[20:52:26] [INFO] Client: 接收消息任务已取消
+[20:52:33] [INFO] 窗口关闭事件触发，开始清理...
+[20:52:33] [INFO] 程序开始清理资源...
+[20:52:34] [INFO] Server: WebSocket Server正在关闭
+[20:52:34] [INFO] 等待资源完全释放...
+[20:52:34] [INFO] 倒计时 3 秒...
+[20:52:35] [INFO] 倒计时 2 秒...
+[20:52:36] [INFO] 倒计时 1 秒...
+[20:52:37] [INFO] 资源清理完成，程序退出
+[20:53:27] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[20:53:27] [INFO] 开始分析并安装所有模块依赖...
+[20:53:27] [INFO] 发现 17 个依赖，开始检查安装...
+[20:53:27] [INFO] 跳过安装标准库: socket
+[20:53:27] [INFO] 跳过安装标准库: multiprocessing
+[20:53:27] [INFO] 跳过安装标准库: threading
+[20:53:27] [INFO] 跳过安装标准库: tkinter
+[20:53:27] [INFO] 跳过安装标准库: queue
+[20:53:27] [INFO] 跳过安装标准库: PIL
+[20:53:27] [INFO] 跳过安装标准库: winreg
+[20:53:27] [INFO] 跳过安装标准库: qrcode
+[20:53:27] [INFO] 跳过安装标准库: time
+[20:53:27] [INFO] Python标准库: socket, multiprocessing, threading, tkinter, queue, PIL, winreg, qrcode, time
+[20:53:27] [INFO] 已安装的依赖: asyncio, keyboard, flask, bilibili_api, aiohttp, flask_socketio, xpinyin, flask_cors
+[20:53:27] [INFO] 开始导入模块...
+[20:53:27] [INFO] 模块 bilibiliClient 无main函数
+[20:53:27] [SUCCESS] 成功导入模块 csgo_dglab
+[20:53:27] [SUCCESS] 成功导入模块 keyboard_listen
+[20:53:27] [SUCCESS] HTTP 服务器已于8000端口启动
+[20:54:40] [INFO] 窗口关闭事件触发，开始清理...
+[20:54:40] [INFO] 程序开始清理资源...
+[20:54:40] [INFO] 等待资源完全释放...
+[20:54:40] [INFO] 倒计时 3 秒...
+[20:54:41] [INFO] 倒计时 2 秒...
+[20:54:42] [INFO] 倒计时 1 秒...
+[20:54:43] [INFO] 资源清理完成，程序退出
+[21:05:31] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:05:31] [INFO] 开始分析并安装所有模块依赖...
+[21:05:31] [INFO] 发现 17 个依赖，开始检查安装...
+[21:05:31] [INFO] 跳过安装标准库: tkinter
+[21:05:31] [INFO] 跳过安装标准库: queue
+[21:05:31] [INFO] 跳过安装标准库: PIL
+[21:05:31] [INFO] 跳过安装标准库: time
+[21:05:31] [INFO] 跳过安装标准库: threading
+[21:05:31] [INFO] 跳过安装标准库: multiprocessing
+[21:05:31] [INFO] 跳过安装标准库: qrcode
+[21:05:31] [INFO] 跳过安装标准库: winreg
+[21:05:31] [INFO] 跳过安装标准库: socket
+[21:05:31] [INFO] Python标准库: tkinter, queue, PIL, time, threading, multiprocessing, qrcode, winreg, socket
+[21:05:31] [INFO] 已安装的依赖: flask, flask_socketio, asyncio, aiohttp, keyboard, bilibili_api, xpinyin, flask_cors
+[21:05:31] [INFO] 开始导入模块...
+[21:05:31] [INFO] 模块 bilibiliClient 无main函数
+[21:05:31] [SUCCESS] 成功导入模块 csgo_dglab
+[21:05:31] [SUCCESS] 成功导入模块 keyboard_listen
+[21:05:31] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:05:35] [INFO] Server: 服务器模式：n-n
+[21:05:35] [INFO] Server: 服务器在192.168.31.217上运行
+[21:05:35] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[21:05:36] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:05:36] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:52624685-3df3-4a4a-8e31-e19f36b50446
+[21:05:36] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:05:36] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:05:36] [INFO] Client: 二维码已创建
+[21:05:36] [INFO] Client: 收到心跳包
+[21:05:37] [WARNING] 异常消息: {'action': 'logger', 'message': '[Keyboard_listen] 按键监听已启动'}
+[21:05:50] [INFO] Client: APP未连接
+：20
+[21:05:52] [INFO] Client: APP未连接
+：20
+[21:05:53] [INFO] Client: APP未连接
+[21:05:53] [INFO] Client: APP未连接
+[21:06:06] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:06:06] [INFO] Client: 收到心跳包
+[21:06:36] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:06:36] [INFO] Client: 收到心跳包
+[21:07:06] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:07:06] [INFO] Client: 收到心跳包
+[21:07:36] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:07:36] [INFO] Client: 收到心跳包
+[21:08:06] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:08:06] [INFO] Client: 收到心跳包
+[21:08:18] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:08:18] [INFO] 开始分析并安装所有模块依赖...
+[21:08:18] [INFO] 发现 17 个依赖，开始检查安装...
+[21:08:18] [INFO] 跳过安装标准库: qrcode
+[21:08:18] [INFO] 跳过安装标准库: socket
+[21:08:18] [INFO] 跳过安装标准库: tkinter
+[21:08:18] [INFO] 跳过安装标准库: queue
+[21:08:18] [INFO] 跳过安装标准库: PIL
+[21:08:18] [INFO] 跳过安装标准库: threading
+[21:08:18] [INFO] 跳过安装标准库: time
+[21:08:18] [INFO] 跳过安装标准库: winreg
+[21:08:18] [INFO] 跳过安装标准库: multiprocessing
+[21:08:18] [INFO] Python标准库: qrcode, socket, tkinter, queue, PIL, threading, time, winreg, multiprocessing
+[21:08:18] [INFO] 已安装的依赖: flask, bilibili_api, flask_socketio, keyboard, flask_cors, asyncio, aiohttp, xpinyin
+[21:08:18] [INFO] 开始导入模块...
+[21:08:18] [INFO] 模块 bilibiliClient 无main函数
+[21:08:18] [SUCCESS] 成功导入模块 csgo_dglab
+[21:08:18] [SUCCESS] 成功导入模块 keyboard_listen
+[21:08:18] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:08:21] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[21:08:21] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:08:21] [INFO] Client: 二维码已创建
+[21:08:23] [WARNING] 异常消息: {'action': 'logger', 'level': 'success', 'message': '[Keyboard_listen] 按键监听已启动'}
+[21:08:52] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:08:52] [INFO] 开始分析并安装所有模块依赖...
+[21:08:52] [INFO] 发现 17 个依赖，开始检查安装...
+[21:08:52] [INFO] 跳过安装标准库: time
+[21:08:52] [INFO] 跳过安装标准库: winreg
+[21:08:52] [INFO] 跳过安装标准库: qrcode
+[21:08:52] [INFO] 跳过安装标准库: PIL
+[21:08:52] [INFO] 跳过安装标准库: tkinter
+[21:08:52] [INFO] 跳过安装标准库: threading
+[21:08:52] [INFO] 跳过安装标准库: queue
+[21:08:52] [INFO] 跳过安装标准库: multiprocessing
+[21:08:52] [INFO] 跳过安装标准库: socket
+[21:08:52] [INFO] Python标准库: time, winreg, qrcode, PIL, tkinter, threading, queue, multiprocessing, socket
+[21:08:52] [INFO] 已安装的依赖: bilibili_api, flask, flask_cors, flask_socketio, aiohttp, keyboard, asyncio, xpinyin
+[21:08:52] [INFO] 开始导入模块...
+[21:08:52] [INFO] 模块 bilibiliClient 无main函数
+[21:08:52] [SUCCESS] 成功导入模块 csgo_dglab
+[21:08:52] [SUCCESS] 成功导入模块 keyboard_listen
+[21:08:52] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:08:54] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[21:08:54] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:08:54] [INFO] Client: 二维码已创建
+[21:08:55] [WARNING] 异常消息: {'action': 'logger', 'level': 'SUCCESS', 'message': '[Keyboard_listen] 按键监听已启动'}
+[21:09:47] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:09:47] [INFO] 开始分析并安装所有模块依赖...
+[21:09:47] [INFO] 发现 17 个依赖，开始检查安装...
+[21:09:47] [INFO] 跳过安装标准库: socket
+[21:09:47] [INFO] 跳过安装标准库: queue
+[21:09:47] [INFO] 跳过安装标准库: winreg
+[21:09:47] [INFO] 跳过安装标准库: threading
+[21:09:47] [INFO] 跳过安装标准库: tkinter
+[21:09:47] [INFO] 跳过安装标准库: multiprocessing
+[21:09:47] [INFO] 跳过安装标准库: qrcode
+[21:09:47] [INFO] 跳过安装标准库: PIL
+[21:09:47] [INFO] 跳过安装标准库: time
+[21:09:47] [INFO] Python标准库: socket, queue, winreg, threading, tkinter, multiprocessing, qrcode, PIL, time
+[21:09:47] [INFO] 已安装的依赖: keyboard, flask_cors, aiohttp, flask, xpinyin, bilibili_api, flask_socketio, asyncio
+[21:09:47] [INFO] 开始导入模块...
+[21:09:47] [INFO] 模块 bilibiliClient 无main函数
+[21:09:47] [SUCCESS] 成功导入模块 csgo_dglab
+[21:09:47] [SUCCESS] 成功导入模块 keyboard_listen
+[21:09:47] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:09:50] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[21:09:50] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:09:50] [INFO] Client: 二维码已创建
+[21:09:52] [SUCCESS] [Keyboard_listen] 按键监听已启动
+[21:10:18] [INFO] 窗口关闭事件触发，开始清理...
+[21:10:18] [INFO] 程序开始清理资源...
+[21:10:20] [INFO] 客户端已停止
+[21:10:20] [INFO] 等待资源完全释放...
+[21:10:20] [INFO] 倒计时 3 秒...
+[21:10:21] [INFO] 倒计时 2 秒...
+[21:10:22] [INFO] 倒计时 1 秒...
+[21:10:23] [INFO] 资源清理完成，程序退出
+[21:17:06] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:17:06] [INFO] 开始分析并安装所有模块依赖...
+[21:17:06] [INFO] 发现 17 个依赖，开始检查安装...
+[21:17:06] [INFO] 跳过安装标准库: tkinter
+[21:17:06] [INFO] 跳过安装标准库: multiprocessing
+[21:17:06] [INFO] 跳过安装标准库: queue
+[21:17:06] [INFO] 跳过安装标准库: socket
+[21:17:06] [INFO] 跳过安装标准库: winreg
+[21:17:06] [INFO] 跳过安装标准库: time
+[21:17:06] [INFO] 跳过安装标准库: threading
+[21:17:06] [INFO] 跳过安装标准库: PIL
+[21:17:06] [INFO] 跳过安装标准库: qrcode
+[21:17:06] [INFO] Python标准库: tkinter, multiprocessing, queue, socket, winreg, time, threading, PIL, qrcode
+[21:17:06] [INFO] 已安装的依赖: asyncio, aiohttp, xpinyin, bilibili_api, flask, flask_socketio, flask_cors, keyboard
+[21:17:06] [INFO] 开始导入模块...
+[21:17:06] [INFO] 模块 bilibiliClient 无main函数
+[21:17:06] [SUCCESS] 成功导入模块 csgo_dglab
+[21:17:06] [SUCCESS] 成功导入模块 keyboard_listen
+[21:17:06] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:19:28] [INFO] 窗口关闭事件触发，开始清理...
+[21:19:28] [INFO] 程序开始清理资源...
+[21:19:30] [WARNING] 消息队列未在超时时间内处理完毕
+[21:19:30] [INFO] 等待资源完全释放...
+[21:19:30] [INFO] 倒计时 3 秒...
+[21:19:31] [INFO] 倒计时 2 秒...
+[21:19:32] [INFO] 倒计时 1 秒...
+[21:19:33] [INFO] 资源清理完成，程序退出
+[21:28:04] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:28:04] [INFO] 开始分析并安装所有模块依赖...
+[21:28:04] [INFO] 发现 17 个依赖，开始检查安装...
+[21:28:04] [INFO] 跳过安装标准库: tkinter
+[21:28:04] [INFO] 跳过安装标准库: socket
+[21:28:04] [INFO] 跳过安装标准库: queue
+[21:28:04] [INFO] 跳过安装标准库: qrcode
+[21:28:04] [INFO] 跳过安装标准库: time
+[21:28:04] [INFO] 跳过安装标准库: PIL
+[21:28:04] [INFO] 跳过安装标准库: winreg
+[21:28:04] [INFO] 跳过安装标准库: threading
+[21:28:04] [INFO] 跳过安装标准库: multiprocessing
+[21:28:04] [INFO] Python标准库: tkinter, socket, queue, qrcode, time, PIL, winreg, threading, multiprocessing
+[21:28:04] [INFO] 已安装的依赖: flask_socketio, flask_cors, asyncio, aiohttp, keyboard, xpinyin, bilibili_api, flask
+[21:28:04] [INFO] 开始导入模块...
+[21:28:04] [INFO] 模块 bilibiliClient 无main函数
+[21:28:04] [SUCCESS] 成功导入模块 csgo_dglab
+[21:28:04] [SUCCESS] 成功导入模块 keyboard_listen
+[21:28:04] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:28:08] [INFO] Server: 服务器模式：n-n
+[21:28:08] [INFO] Server: 服务器在192.168.31.217上运行
+[21:28:08] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[21:28:10] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:28:10] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:335575c3-4d41-43f0-8fc9-8540639f6c52
+[21:28:10] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:28:10] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:28:10] [INFO] Client: 二维码已创建
+[21:28:10] [INFO] Client: 收到心跳包
+[21:28:32] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:35f2aea4-aa9d-450b-a47f-e2106158fc0b
+[21:28:32] [INFO] Client: APP已连接
+[21:28:32] [INFO] Server: clientId:335575c3-4d41-43f0-8fc9-8540639f6c52,targetId:35f2aea4-aa9d-450b-a47f-e2106158fc0b 绑定成功
+[21:28:40] [INFO] Server: 绑定关系：1 客户端连接数：2 发送心跳消息
+[21:28:40] [INFO] Client: 收到心跳包
+[21:29:10] [INFO] Server: 绑定关系：1 客户端连接数：2 发送心跳消息
+[21:29:10] [INFO] Client: 收到心跳包
+[21:29:40] [INFO] Server: 绑定关系：1 客户端连接数：2 发送心跳消息
+[21:29:40] [INFO] Client: 收到心跳包
+[21:30:10] [INFO] Server: 绑定关系：1 客户端连接数：2 发送心跳消息
+[21:30:10] [INFO] Client: 收到心跳包
+[21:30:40] [INFO] Server: 绑定关系：1 客户端连接数：2 发送心跳消息
+[21:30:40] [INFO] Client: 收到心跳包
+[21:30:53] [WARNING] 客户端关闭异常
+[21:30:55] [INFO] Client: 接收消息任务已取消
+[21:31:00] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:31:00] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:2c89b685-de00-4337-a75d-ec7695c2b582
+[21:31:00] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:31:00] [INFO] Client: 二维码已创建
+[21:31:10] [INFO] Server: WebSocket 连接已关闭 断开的client id:35f2aea4-aa9d-450b-a47f-e2106158fc0b
+[21:31:10] [INFO] Server: 绑定关系：1 客户端连接数：3 发送心跳消息
+[21:31:13] [INFO] Server: 心跳包发送超时！客户端连接异常：335575c3-4d41-43f0-8fc9-8540639f6c52
+[21:31:13] [INFO] Server: WebSocket 连接已关闭 断开的client id:335575c3-4d41-43f0-8fc9-8540639f6c52
+[21:31:17] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:23004861-12fc-42f9-a2ee-ba6551d8fbde
+[21:31:17] [INFO] Server: clientId:2c89b685-de00-4337-a75d-ec7695c2b582,targetId:23004861-12fc-42f9-a2ee-ba6551d8fbde 绑定成功
+[21:31:17] [INFO] Client: APP已连接
+[21:31:20] [INFO] Server: WebSocket 连接已关闭 断开的client id:335575c3-4d41-43f0-8fc9-8540639f6c52
+[21:31:20] [INFO] Server: WebSocket 连接已关闭 断开的client id:335575c3-4d41-43f0-8fc9-8540639f6c52
+[21:31:20] [INFO] Server: 对方掉线，关闭35f2aea4-aa9d-450b-a47f-e2106158fc0b
+[21:31:20] [INFO] Server: 已清除35f2aea4-aa9d-450b-a47f-e2106158fc0b,当前len：3
+[21:31:20] [INFO] Server: WebSocket 连接已关闭 断开的client id:35f2aea4-aa9d-450b-a47f-e2106158fc0b
+[21:31:20] [INFO] Server: 已清除35f2aea4-aa9d-450b-a47f-e2106158fc0b,当前len：2
+[21:31:36] [WARNING] 客户端关闭异常
+[21:31:38] [INFO] Client: 接收消息任务已取消
+[21:32:10] [INFO] Server: WebSocket 连接已关闭 断开的client id:2c89b685-de00-4337-a75d-ec7695c2b582
+[21:32:10] [INFO] Server: WebSocket 连接已关闭 断开的client id:23004861-12fc-42f9-a2ee-ba6551d8fbde
+[21:32:10] [INFO] Server: WebSocket 连接已关闭 断开的client id:23004861-12fc-42f9-a2ee-ba6551d8fbde
+[21:32:10] [INFO] Server: 对方掉线，关闭23004861-12fc-42f9-a2ee-ba6551d8fbde
+[21:32:10] [INFO] Server: 已清除2c89b685-de00-4337-a75d-ec7695c2b582,当前len：1
+[21:37:22] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:37:22] [INFO] 开始分析并安装所有模块依赖...
+[21:37:22] [INFO] 发现 17 个依赖，开始检查安装...
+[21:37:22] [INFO] 跳过安装标准库: socket
+[21:37:22] [INFO] 跳过安装标准库: qrcode
+[21:37:22] [INFO] 跳过安装标准库: queue
+[21:37:22] [INFO] 跳过安装标准库: multiprocessing
+[21:37:22] [INFO] 跳过安装标准库: time
+[21:37:22] [INFO] 跳过安装标准库: PIL
+[21:37:22] [INFO] 跳过安装标准库: threading
+[21:37:22] [INFO] 跳过安装标准库: tkinter
+[21:37:22] [INFO] 跳过安装标准库: winreg
+[21:37:22] [INFO] Python标准库: socket, qrcode, queue, multiprocessing, time, PIL, threading, tkinter, winreg
+[21:37:22] [INFO] 已安装的依赖: xpinyin, flask_socketio, asyncio, bilibili_api, keyboard, flask, aiohttp, flask_cors
+[21:37:22] [INFO] 开始导入模块...
+[21:37:22] [INFO] 模块 bilibiliClient 无main函数
+[21:37:22] [SUCCESS] 成功导入模块 csgo_dglab
+[21:37:22] [SUCCESS] 成功导入模块 keyboard_listen
+[21:37:22] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:37:25] [INFO] Server: 服务器模式：n-n
+[21:37:25] [INFO] Server: 服务器在192.168.31.217上运行
+[21:37:25] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[21:37:26] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:37:26] [INFO] Server: 新的 WebSocket 连接已建立，标识符为:92d8d70d-c715-4420-baf2-d3021c6c5883
+[21:37:26] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:37:26] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:37:26] [INFO] Client: 二维码已创建
+[21:37:26] [INFO] Client: 收到心跳包
+[21:37:26] [WARNING] 客户端关闭异常
+[21:37:29] [INFO] Client: 接收消息任务已取消
+[21:37:56] [INFO] Server: 绑定关系：0 客户端连接数：1 发送心跳消息
+[21:38:16] [INFO] Server: WebSocket 连接已关闭 断开的client id:92d8d70d-c715-4420-baf2-d3021c6c5883
+[21:38:16] [INFO] Server: 已清除92d8d70d-c715-4420-baf2-d3021c6c5883,当前len：0
+[21:44:43] [INFO] 窗口关闭事件触发，开始清理...
+[21:44:43] [INFO] 程序开始清理资源...
+[21:44:43] [INFO] Server: WebSocket Server正在关闭
+[21:44:43] [INFO] Server: WebSocket Server关闭
+[21:44:43] [INFO] Server: 服务器正在关闭...
+[21:44:43] [INFO] 等待资源完全释放...
+[21:44:43] [INFO] 倒计时 3 秒...
+[21:44:44] [INFO] 倒计时 2 秒...
+[21:44:45] [INFO] 倒计时 1 秒...
+[21:44:46] [INFO] 资源清理完成，程序退出
+[21:45:22] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[21:45:22] [INFO] 开始分析并安装所有模块依赖...
+[21:45:22] [INFO] 发现 17 个依赖，开始检查安装...
+[21:45:22] [INFO] 跳过安装标准库: socket
+[21:45:22] [INFO] 跳过安装标准库: tkinter
+[21:45:22] [INFO] 跳过安装标准库: qrcode
+[21:45:22] [INFO] 跳过安装标准库: PIL
+[21:45:22] [INFO] 跳过安装标准库: winreg
+[21:45:22] [INFO] 跳过安装标准库: queue
+[21:45:22] [INFO] 跳过安装标准库: time
+[21:45:22] [INFO] 跳过安装标准库: multiprocessing
+[21:45:22] [INFO] 跳过安装标准库: threading
+[21:45:22] [INFO] Python标准库: socket, tkinter, qrcode, PIL, winreg, queue, time, multiprocessing, threading
+[21:45:22] [INFO] 已安装的依赖: bilibili_api, flask_socketio, keyboard, asyncio, flask_cors, aiohttp, flask, xpinyin
+[21:45:22] [INFO] 开始导入模块...
+[21:45:22] [INFO] 模块 bilibiliClient 无main函数
+[21:45:22] [SUCCESS] 成功导入模块 csgo_dglab
+[21:45:22] [SUCCESS] 成功导入模块 keyboard_listen
+[21:45:22] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:45:26] [INFO] Server: 服务器模式：n-n
+[21:45:26] [INFO] Server: 服务器在192.168.31.217上运行
+[21:45:26] [INFO] Server: 连接信息：ws://192.168.31.217:1145
+[21:45:29] [INFO] Server: WebSocket Server正在关闭
+[21:45:29] [INFO] Server: WebSocket Server关闭
+[21:45:29] [INFO] Server: 服务器正在关闭...
+[21:45:34] [INFO] 窗口关闭事件触发，开始清理...
+[21:45:34] [INFO] 程序开始清理资源...
+[21:45:34] [INFO] 等待资源完全释放...
+[21:45:34] [INFO] 倒计时 3 秒...
+[21:45:35] [INFO] 倒计时 2 秒...
+[21:45:36] [INFO] 倒计时 1 秒...
+[21:45:37] [INFO] 资源清理完成，程序退出
+[22:02:03] [INFO] 已添加库搜索路径: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib
+[22:02:03] [INFO] 开始分析并安装所有模块依赖...
+[22:02:03] [INFO] 发现 11 个依赖，开始检查安装...
+[22:02:03] [INFO] 跳过安装标准库: tkinter
+[22:02:03] [INFO] 跳过安装标准库: aiohttp
+[22:02:03] [INFO] 跳过安装标准库: time
+[22:02:03] [INFO] 跳过安装标准库: keyboard
+[22:02:03] [INFO] 跳过安装标准库: socket
+[22:02:03] [INFO] 跳过安装标准库: PIL
+[22:02:03] [INFO] 跳过安装标准库: qrcode
+[22:02:03] [INFO] 跳过安装标准库: winreg
+[22:02:03] [INFO] 跳过安装标准库: multiprocessing
+[22:02:03] [INFO] 跳过安装标准库: queue
+[22:02:03] [INFO] Python标准库: tkinter, aiohttp, time, keyboard, socket, PIL, qrcode, winreg, multiprocessing, queue
+[22:02:03] [INFO] 需要安装的依赖: asyncio
+[22:02:03] [INFO] 开始安装包 asyncio 到 D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\lib...
+[22:02:09] [WARNING] pip stdout: Collecting asyncio
+  Obtaining dependency information for asyncio from https://files.pythonhosted.org/packages/22/74/07679c5b9f98a7cb0fc147b1ef1cc1853bc07a4eb9cb5731e24732c5f773/asyncio-3.4.3-py3-none-any.whl.metadata
+  Downloading asyncio-3.4.3-py3-none-any.whl.metadata (1.7 kB)
+Downloading asyncio-3.4.3-py3-none-any.whl (101 kB)
+   --------------------------------------- 101.8/101.8 kB 73.2 kB/s eta 0:00:00
+Installing collected packages: asyncio
+Successfully installed asyncio-3.4.3
+
+[22:02:09] [SUCCESS] 成功安装包 asyncio
+[22:02:09] [INFO] 开始导入模块...
+[22:02:09] [SUCCESS] 成功导入模块 csgo_dglab
+[22:02:09] [SUCCESS] 成功导入模块 keyboard_listen
+[22:02:09] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:16:26] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[22:16:26] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[22:16:26] [INFO] 开始分析并安装所有模块依赖...
+[22:16:26] [INFO] 发现 11 个依赖，开始检查安装...
+[22:16:26] [INFO] 跳过安装标准库: socket
+[22:16:26] [INFO] 跳过安装标准库: PIL
+[22:16:26] [INFO] 跳过安装标准库: time
+[22:16:26] [INFO] 跳过安装标准库: queue
+[22:16:26] [INFO] 跳过安装标准库: aiohttp
+[22:16:26] [INFO] 跳过安装标准库: winreg
+[22:16:26] [INFO] 跳过安装标准库: keyboard
+[22:16:26] [INFO] 跳过安装标准库: qrcode
+[22:16:26] [INFO] 跳过安装标准库: multiprocessing
+[22:16:26] [INFO] 跳过安装标准库: tkinter
+[22:16:26] [INFO] Python标准库: socket, PIL, time, queue, aiohttp, winreg, keyboard, qrcode, multiprocessing, tkinter
+[22:16:26] [INFO] 需要安装的依赖: asyncio
+[22:16:26] [INFO] 正在安装第 1 批依赖: asyncio
+[22:16:26] [INFO] 开始安装包 asyncio 到 C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib...
+[22:16:26] [INFO] 执行命令: D:\YingXIYa\Work\DG-Lab-Keyboard-punishment\venv311\Scripts\python.exe -m pip install asyncio --target=C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib --no-cache-dir --disable-pip-version-check
+[22:16:28] [WARNING] Collecting asyncio
+[22:16:28] [WARNING] Obtaining dependency information for asyncio from https://files.pythonhosted.org/packages/22/74/07679c5b9f98a7cb0fc147b1ef1cc1853bc07a4eb9cb5731e24732c5f773/asyncio-3.4.3-py3-none-any.whl.metadata
+[22:16:30] [WARNING] Downloading asyncio-3.4.3-py3-none-any.whl.metadata (1.7 kB)
+[22:16:30] [WARNING] Downloading asyncio-3.4.3-py3-none-any.whl (101 kB)
+[22:16:31] [WARNING] -------------------------------------- 101.8/101.8 kB 101.0 kB/s eta 0:00:00
+[22:16:31] [WARNING] Installing collected packages: asyncio
+[22:16:31] [WARNING] Successfully installed asyncio-3.4.3
+[22:16:31] [SUCCESS] 成功安装包 asyncio
+[22:16:31] [INFO] 开始导入模块...
+[22:16:31] [SUCCESS] 成功导入模块 csgo_dglab
+[22:16:32] [SUCCESS] 成功导入模块 keyboard_listen
+[22:16:42] [INFO] 窗口关闭事件触发，开始清理...
+[22:16:42] [INFO] 程序开始清理资源...
+[22:17:02] [INFO] 已添加库搜索路径: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[22:17:02] [INFO] 使用用户可写库目录: C:\Users\YingXIYa\AppData\Roaming\DG-Lab\lib
+[22:17:02] [INFO] 开始分析并安装所有模块依赖...
+[22:17:02] [INFO] 发现 11 个依赖，开始检查安装...
+[22:17:02] [INFO] 跳过安装标准库: socket
+[22:17:02] [INFO] 跳过安装标准库: time
+[22:17:02] [INFO] 跳过安装标准库: keyboard
+[22:17:02] [INFO] 跳过安装标准库: winreg
+[22:17:02] [INFO] 跳过安装标准库: qrcode
+[22:17:02] [INFO] 跳过安装标准库: aiohttp
+[22:17:02] [INFO] 跳过安装标准库: tkinter
+[22:17:02] [INFO] 跳过安装标准库: PIL
+[22:17:02] [INFO] 跳过安装标准库: queue
+[22:17:02] [INFO] 跳过安装标准库: multiprocessing
+[22:17:02] [INFO] Python标准库: socket, time, keyboard, winreg, qrcode, aiohttp, tkinter, PIL, queue, multiprocessing
+[22:17:02] [INFO] 已安装的依赖: asyncio
+[22:17:02] [INFO] 开始导入模块...
+[22:17:02] [SUCCESS] 成功导入模块 csgo_dglab
+[22:17:02] [SUCCESS] 成功导入模块 keyboard_listen
+[22:17:02] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:17:08] [INFO] 窗口关闭事件触发，开始清理...
+[22:17:08] [INFO] 程序开始清理资源...
+[22:17:08] [INFO] 等待资源完全释放...
+[22:17:08] [INFO] 倒计时 3 秒...
+[22:17:09] [INFO] 倒计时 2 秒...
+[22:17:10] [INFO] 倒计时 1 秒...
+[22:17:11] [INFO] 资源清理完成，程序退出

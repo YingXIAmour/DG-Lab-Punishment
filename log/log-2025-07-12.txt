@@ -1,0 +1,329 @@
+[21:17:02] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:05] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:05] [INFO] 通道A，强度设置为0
+[21:17:05] [INFO] 通道B，强度设置为0
+[21:17:05] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:08] [INFO] 通道A，强度设置为0
+[21:17:08] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:10] [INFO] Server: 发送心跳包，当前连接数: 2
+[21:17:10] [INFO] Client: 收到心跳包
+[21:17:11] [INFO] 通道A，强度设置为0
+[21:17:11] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:14] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:14] [INFO] 通道B，强度设置为0
+=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:17] [INFO] 通道A，强度设置为0
+=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:17] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:20] [INFO] 通道A，强度设置为0
+[21:17:20] [INFO] 通道B，强度设置为0
+=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:23] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:23] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:26] [INFO] 通道A，强度设置为0
+=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:26] [INFO] 通道B，强度设置为0
+=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:29] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:30] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:33] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=1
+[21:17:33] [INFO] Server: 消息发送: client=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:35] [INFO] CSGO: 监听已关闭
+[21:17:36] [INFO] 通道A，强度设置为0
+[21:17:36] [INFO] 通道B，强度设置为0
+=915732f7-970e-417d-b674-c8c1a8decdc8 -> target=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 通道=2
+[21:17:36] [INFO] CSGO: 正在关闭HTTP服务器...
+[21:17:36] [INFO] CSGO: HTTP服务器已关闭
+[21:17:40] [INFO] Server: 发送心跳包，当前连接数: 2
+[21:17:40] [INFO] Client: 收到心跳包
+[21:17:43] [INFO] Server: 连接异常关闭: client=e21999fd-abe7-4518-97b6-db1d6aa7cb60, 原因: received 4999 (private use) disconnect; then sent 4999 (private use) disconnect
+[21:17:43] [INFO] Server: 开始关闭客户端: e21999fd-abe7-4518-97b6-db1d6aa7cb60
+[21:17:43] [INFO] Client: 收到断开通知: 209 - Peer disconnected
+[21:17:43] [INFO] Client: 由于收到break消息，开始尝试重新连接...
+[21:17:43] [INFO] Client: 开始尝试重新连接...
+[21:17:43] [INFO] Client: 关闭现有WebSocket连接...
+[21:17:43] [INFO] Client: 取消当前接收任务...
+[21:17:43] [INFO] Client: 接收消息任务已取消
+[21:17:43] [INFO] Client: 接收消息循环已退出
+[21:17:43] [INFO] Client: 接收任务退出，尝试重新连接...
+[21:17:43] [INFO] Client: 开始尝试重新连接...
+[21:17:43] [INFO] Client: 尝试连接到 ws://192.168.31.217:1145...
+[21:17:43] [INFO] Server: 开始关闭客户端: 915732f7-970e-417d-b674-c8c1a8decdc8
+[21:17:43] [INFO] Server: 断开关联客户端: 915732f7-970e-417d-b674-c8c1a8decdc8
+[21:17:43] [INFO] Server: 关闭客户端连接时出错: 'ServerConnection' object has no attribute 'closed', client=e21999fd-abe7-4518-97b6-db1d6aa7cb60
+[21:17:43] [INFO] Server: 客户端已移除: e21999fd-abe7-4518-97b6-db1d6aa7cb60, 当前连接数: 1
+[21:17:43] [INFO] Server: 客户端已关闭，无法发送: client=e21999fd-abe7-4518-97b6-db1d6aa7cb60
+[21:17:43] [INFO] Server: 关闭关联客户端时出错: 'e21999fd-abe7-4518-97b6-db1d6aa7cb60'
+[21:17:43] [INFO] Server: 断开关联客户端: e21999fd-abe7-4518-97b6-db1d6aa7cb60
+[21:17:43] [INFO] Server: 关闭客户端连接时出错: 'ServerConnection' object has no attribute 'closed', client=915732f7-970e-417d-b674-c8c1a8decdc8
+[21:17:43] [INFO] Server: 客户端已移除: 915732f7-970e-417d-b674-c8c1a8decdc8, 当前连接数: 0
+[21:17:43] [INFO] Client: 接收消息线程已退出
+[21:43:39] [INFO] 开始导入模块...
+[21:43:39] [SUCCESS] 成功导入模块 csgo_dglab
+[21:43:39] [SUCCESS] 成功导入模块 keyboard_listen
+[21:43:39] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:43:42] [INFO] [2025-07-12 21:43:42] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[21:43:43] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[21:43:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:43:43] [INFO] [2025-07-12 21:43:43] Server: 新连接建立: client=f036e827-221d-49d9-a6d1-f7e27b6487ec
+[21:43:43] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:43:43] [INFO] Client: 启动新的接收任务
+[21:43:43] [INFO] Client: 开始接收消息...
+[21:43:43] [INFO] [2025-07-12 21:43:43] Server: 心跳机制已启动
+[21:43:43] [INFO] [2025-07-12 21:43:43] Server: 心跳机制启动，间隔: 30秒
+[21:43:43] [INFO] [2025-07-12 21:43:43] Server: 发送心跳包，当前连接数: 1
+[21:43:43] [INFO] Client: 二维码已创建
+[21:43:43] [INFO] Client: 收到心跳包
+[21:43:59] [INFO] [2025-07-12 21:43:59] Server: 新连接建立: client=82c30da3-b79a-4f28-be0a-6a464ae005d7
+[21:43:59] [INFO] [2025-07-12 21:43:59] Server: n-n绑定成功: f036e827-221d-49d9-a6d1-f7e27b6487ec <-> 82c30da3-b79a-4f28-be0a-6a464ae005d7
+[21:44:05] [INFO] [2025-07-12 21:44:05] Server: 连接异常关闭: client=82c30da3-b79a-4f28-be0a-6a464ae005d7, 原因: received 4999 (private use) disconnect; then sent 4999 (private use) disconnect, is_app=True
+[21:44:05] [INFO] [2025-07-12 21:44:05] Server: 开始关闭客户端: 82c30da3-b79a-4f28-be0a-6a464ae005d7
+[21:44:05] [INFO] [2025-07-12 21:44:05] Server: 处理APP端断开连接: 82c30da3-b79a-4f28-be0a-6a464ae005d7
+[21:44:05] [INFO] Client: 收到断开通知: 209 - APP disconnected
+[21:44:05] [INFO] Client: 保持待连接状态，等待新的APP连接...
+[21:44:05] [INFO] [2025-07-12 21:44:05] Server: 通知客户端 f036e827-221d-49d9-a6d1-f7e27b6487ec APP 82c30da3-b79a-4f28-be0a-6a464ae005d7 已断开连接
+[21:44:05] [INFO] [2025-07-12 21:44:05] Server: APP 82c30da3-b79a-4f28-be0a-6a464ae005d7 断开处理完成，客户端保持连接状态
+[21:44:05] [INFO] [2025-07-12 21:44:05] Server: 客户端已清理: 82c30da3-b79a-4f28-be0a-6a464ae005d7
+[21:44:13] [INFO] [2025-07-12 21:44:13] Server: 发送心跳包，当前连接数: 1
+[21:44:13] [INFO] Client: 收到心跳包
+[21:44:21] [INFO] Client: 开始关闭客户端...
+[21:44:21] [INFO] Client: 正在取消 2 个任务...
+[21:44:21] [INFO] Client: 接收消息任务已取消
+[21:44:21] [INFO] Client: 接收消息循环已退出
+[21:44:21] [INFO] Client: 接收消息线程已退出
+[21:44:31] [INFO] [2025-07-12 21:44:31] Server: 客户端已清理: f036e827-221d-49d9-a6d1-f7e27b6487ec
+[21:44:36] [WARNING] 服务端关闭异常
+[21:44:37] [INFO] [2025-07-12 21:44:36] Server: 开始关闭服务器...
+[21:45:15] [INFO] Client: 尝试连接到WebSocket服务器: ws://dglab.yingxiya.com:1145
+[21:45:15] [INFO] Client: 客户端正在连接：ws://dglab.yingxiya.com:1145
+[21:45:16] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:45:16] [INFO] Client: 启动新的接收任务
+[21:45:16] [INFO] Client: 开始接收消息...
+[21:45:16] [INFO] Client: 二维码已创建
+[21:45:20] [INFO] Client: 开始关闭客户端...
+[21:45:20] [INFO] Client: 正在取消 2 个任务...
+[21:45:20] [INFO] Client: 接收消息任务已取消
+[21:45:20] [INFO] Client: 接收消息循环已退出
+[21:45:20] [INFO] Client: 接收消息线程已退出
+[21:46:30] [INFO] 开始导入模块...
+[21:46:30] [SUCCESS] 成功导入模块 csgo_dglab
+[21:46:30] [SUCCESS] 成功导入模块 keyboard_listen
+[21:46:30] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:46:33] [INFO] [2025-07-12 21:46:33] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[21:46:34] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[21:46:34] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:46:34] [INFO] [2025-07-12 21:46:34] Server: 新连接建立: client=f9d116ef-fe95-4e7a-971d-aa25f1cdaef0
+[21:46:34] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:46:34] [INFO] Client: 启动新的接收任务
+[21:46:34] [INFO] Client: 开始接收消息...
+[21:46:34] [INFO] [2025-07-12 21:46:34] Server: 心跳机制已启动
+[21:46:34] [INFO] [2025-07-12 21:46:34] Server: 心跳机制启动，间隔: 30秒
+[21:46:34] [INFO] [2025-07-12 21:46:34] Server: 发送心跳包，当前连接数: 1
+[21:46:34] [INFO] Client: 二维码已创建
+[21:46:34] [INFO] Client: 收到心跳包
+[21:46:37] [INFO] Client: 开始关闭客户端...
+[21:46:37] [INFO] Client: 正在取消 2 个任务...
+[21:46:37] [INFO] Client: 接收消息任务已取消
+[21:46:37] [INFO] Client: 接收消息循环已退出
+[21:46:37] [INFO] Client: 接收消息线程已退出
+[21:46:54] [INFO] [2025-07-12 21:46:54] Server: 客户端已清理: f9d116ef-fe95-4e7a-971d-aa25f1cdaef0
+[21:46:56] [WARNING] 服务端关闭异常
+[21:46:57] [INFO] [2025-07-12 21:46:56] Server: 开始关闭服务器...
+[21:47:06] [INFO] [2025-07-12 21:47:06] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[21:52:51] [INFO] 开始导入模块...
+[21:52:51] [ERROR] 导入模块 csgo_dglab 失败: unsupported operand type(s) for +: 'int' and 'str'
+[21:52:51] [SUCCESS] 成功导入模块 keyboard_listen
+[21:52:51] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:52:53] [INFO] 窗口关闭事件触发，开始清理...
+[21:52:53] [INFO] 程序开始清理资源...
+[21:52:53] [INFO] 等待资源完全释放...
+[21:52:53] [INFO] 倒计时 3 秒...
+[21:52:54] [INFO] 倒计时 2 秒...
+[21:52:55] [INFO] 倒计时 1 秒...
+[21:52:56] [INFO] 资源清理完成，程序退出
+[21:53:02] [INFO] 开始导入模块...
+[21:53:02] [SUCCESS] 成功导入模块 csgo_dglab
+[21:53:02] [SUCCESS] 成功导入模块 keyboard_listen
+[21:53:02] [SUCCESS] HTTP 服务器已于8000端口启动
+[21:53:31] [INFO] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[21:53:32] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[21:53:32] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[21:53:32] [INFO] Server: 新连接建立: client=2a1c39e8-d77f-4f05-a12c-c5c327baed06
+[21:53:32] [INFO] Server: 心跳机制已启动
+[21:53:32] [INFO] Server: 心跳机制启动，间隔: 30秒
+[21:53:32] [INFO] Server: 发送心跳包，当前连接数: 1
+[21:53:32] [INFO] Client: 已连接到服务端，开始接收消息...
+[21:53:32] [INFO] Client: 启动新的接收任务
+[21:53:32] [INFO] Client: 开始接收消息...
+[21:53:32] [INFO] Client: 二维码已创建
+[21:53:32] [INFO] Client: 收到心跳包
+[21:53:35] [INFO] Client: 开始关闭客户端...
+[21:53:35] [INFO] Client: 正在取消 2 个任务...
+[21:53:35] [INFO] Client: 接收消息任务已取消
+[21:53:35] [INFO] Client: 接收消息循环已退出
+[21:53:35] [INFO] Client: 接收消息线程已退出
+[21:54:02] [INFO] Server: 发送心跳包，当前连接数: 1
+[21:54:18] [WARNING] 服务端关闭异常
+[21:54:18] [INFO] Server: 开始关闭服务器...
+[21:54:18] [INFO] Server: 开始关闭客户端: 2a1c39e8-d77f-4f05-a12c-c5c327baed06
+[21:54:18] [INFO] Server: 客户端已移除: 2a1c39e8-d77f-4f05-a12c-c5c327baed06, 当前连接数: 0
+[21:54:22] [INFO] Server: 连接异常关闭: client=2a1c39e8-d77f-4f05-a12c-c5c327baed06, 原因: sent 1011 (internal error) keepalive ping timeout; no close frame received, is_app=False
+[21:55:04] [INFO] 窗口关闭事件触发，开始清理...
+[21:55:04] [INFO] 程序开始清理资源...
+[21:55:05] [INFO] 等待资源完全释放...
+[21:55:05] [INFO] 倒计时 3 秒...
+[21:55:06] [INFO] 倒计时 2 秒...
+[21:55:07] [INFO] 倒计时 1 秒...
+[21:55:08] [INFO] 资源清理完成，程序退出
+[22:01:50] [INFO] 开始导入模块...
+[22:01:50] [SUCCESS] 成功导入模块 csgo_dglab
+[22:01:50] [SUCCESS] 成功导入模块 keyboard_listen
+[22:01:50] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:01:51] [INFO] 窗口关闭事件触发，开始清理...
+[22:01:51] [INFO] 程序开始清理资源...
+[22:01:52] [INFO] 等待资源完全释放...
+[22:01:52] [INFO] 倒计时 3 秒...
+[22:01:53] [INFO] 倒计时 2 秒...
+[22:01:54] [INFO] 倒计时 1 秒...
+[22:01:55] [INFO] 资源清理完成，程序退出
+[22:01:56] [INFO] 开始导入模块...
+[22:01:57] [SUCCESS] 成功导入模块 csgo_dglab
+[22:01:57] [SUCCESS] 成功导入模块 keyboard_listen
+[22:01:57] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:01:59] [INFO] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[22:02:00] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[22:02:00] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[22:02:00] [INFO] Server: 新连接建立: client=99407d10-68ce-4181-9472-ff4ae950364f
+[22:02:00] [INFO] Client: 已连接到服务端，开始接收消息...
+[22:02:00] [INFO] Client: 启动新的接收任务
+[22:02:00] [INFO] Client: 开始接收消息...
+[22:02:00] [INFO] Server: 心跳机制已启动
+[22:02:00] [INFO] Server: 心跳机制启动，间隔: 30秒
+[22:02:00] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:02:00] [INFO] Client: 二维码已创建
+[22:02:00] [INFO] Client: 收到心跳包
+[22:02:02] [INFO] Client: 开始关闭客户端...
+[22:02:02] [INFO] Client: 正在取消 2 个任务...
+[22:02:02] [INFO] Client: 接收消息任务已取消
+[22:02:02] [INFO] Client: 接收消息循环已退出
+[22:02:02] [INFO] Client: 接收消息线程已退出
+[22:02:30] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:02:50] [INFO] Server: 连接异常关闭: client=99407d10-68ce-4181-9472-ff4ae950364f, 原因: sent 1011 (internal error) keepalive ping timeout; no close frame received, is_app=False
+[22:02:50] [INFO] Server: 开始关闭客户端: 99407d10-68ce-4181-9472-ff4ae950364f
+[22:02:50] [INFO] Server: 客户端已移除: 99407d10-68ce-4181-9472-ff4ae950364f, 当前连接数: 0
+[22:08:58] [INFO] 开始导入模块...
+[22:08:59] [SUCCESS] 成功导入模块 csgo_dglab
+[22:08:59] [SUCCESS] 成功导入模块 keyboard_listen
+[22:08:59] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:09:01] [INFO] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[22:09:02] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[22:09:02] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[22:09:02] [INFO] Server: 新连接建立: client=63c2775f-373f-40fb-afa0-9696d050a336
+[22:09:02] [INFO] Server: 心跳机制已启动
+[22:09:02] [INFO] Server: 心跳机制启动，间隔: 30秒
+[22:09:02] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:09:02] [INFO] Client: 已连接到服务端，开始接收消息...
+[22:09:02] [INFO] Client: 启动新的接收任务
+[22:09:02] [INFO] Client: 开始接收消息...
+[22:09:02] [INFO] Client: 二维码已创建
+[22:09:02] [INFO] Client: 收到心跳包
+[22:09:08] [INFO] Client: 开始关闭客户端...
+[22:09:08] [INFO] Client: 正在取消 2 个任务...
+[22:09:08] [INFO] Client: 接收消息任务已取消
+[22:09:08] [INFO] Client: 接收消息循环已退出
+[22:09:08] [INFO] Client: 已向服务器发送关闭通知
+[22:09:08] [INFO] Client: 接收消息线程已退出
+[22:09:08] [INFO] Server: 收到格式不完整的消息: {'type': 'close', 'clientId': '63c2775f-373f-40fb-afa0-9696d050a336', 'message': 'Client shutting down'}
+[22:09:08] [INFO] Client: 关闭操作超时，客户端可能未完全关闭
+[22:09:32] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:09:52] [INFO] Server: 连接异常关闭: client=63c2775f-373f-40fb-afa0-9696d050a336, 原因: sent 1011 (internal error) keepalive ping timeout; no close frame received, is_app=False
+[22:09:52] [INFO] Server: 开始关闭客户端: 63c2775f-373f-40fb-afa0-9696d050a336
+[22:09:52] [INFO] Server: 客户端已移除: 63c2775f-373f-40fb-afa0-9696d050a336, 当前连接数: 0
+[22:11:10] [INFO] 开始导入模块...
+[22:11:11] [SUCCESS] 成功导入模块 csgo_dglab
+[22:11:11] [SUCCESS] 成功导入模块 keyboard_listen
+[22:11:11] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:11:25] [INFO] 窗口关闭事件触发，开始清理...
+[22:11:26] [INFO] 程序开始清理资源...
+[22:11:28] [WARNING] 消息队列未在超时时间内处理完毕
+[22:11:28] [INFO] 等待资源完全释放...
+[22:11:28] [INFO] 倒计时 3 秒...
+[22:11:29] [INFO] 倒计时 2 秒...
+[22:11:30] [INFO] 倒计时 1 秒...
+[22:11:31] [INFO] 资源清理完成，程序退出
+[22:17:40] [INFO] 开始导入模块...
+[22:17:40] [SUCCESS] 成功导入模块 csgo_dglab
+[22:17:40] [SUCCESS] 成功导入模块 keyboard_listen
+[22:17:40] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:17:42] [INFO] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[22:17:43] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[22:17:43] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[22:17:43] [INFO] Server: 新连接建立: client=37813245-c3da-401b-8c65-882c9274f64b
+[22:17:43] [INFO] Client: 已连接到服务端，开始接收消息...
+[22:17:43] [INFO] Client: 启动新的接收任务
+[22:17:43] [INFO] Client: 开始接收消息...
+[22:17:43] [INFO] Server: 心跳机制已启动
+[22:17:43] [INFO] Server: 心跳机制启动，间隔: 30秒
+[22:17:43] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:17:43] [INFO] Client: 二维码已创建
+[22:17:43] [INFO] Client: 收到心跳包
+[22:17:50] [INFO] Client: 开始关闭客户端...
+[22:17:50] [INFO] Client: 接收消息任务已取消
+[22:17:50] [INFO] Client: 接收消息循环已退出
+[22:17:50] [INFO] Client: 接收消息线程已退出
+[22:17:50] [INFO] Client: 关闭操作超时，客户端可能未完全关闭
+[22:18:13] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:18:33] [INFO] Server: 连接异常关闭: client=37813245-c3da-401b-8c65-882c9274f64b, 原因: sent 1011 (internal error) keepalive ping timeout; no close frame received, is_app=False
+[22:18:33] [INFO] Server: 开始关闭客户端: 37813245-c3da-401b-8c65-882c9274f64b
+[22:18:33] [INFO] Server: 客户端已移除: 37813245-c3da-401b-8c65-882c9274f64b, 当前连接数: 0
+[22:47:19] [INFO] 开始导入模块...
+[22:47:19] [SUCCESS] 成功导入模块 csgo_dglab
+[22:47:19] [SUCCESS] 成功导入模块 keyboard_listen
+[22:47:19] [SUCCESS] HTTP 服务器已于8000端口启动
+[22:47:21] [INFO] Server: 服务器启动，模式: n-n，地址: ws://192.168.31.217:1145
+[22:47:22] [INFO] Client: 尝试连接到WebSocket服务器: ws://192.168.31.217:1145
+[22:47:22] [INFO] Client: 客户端正在连接：ws://192.168.31.217:1145
+[22:47:22] [INFO] Client: 已连接到服务端，开始接收消息...
+[22:47:22] [INFO] Server: 新连接建立: client=a5d7a082-f0d1-45e1-bd80-b654568268b4
+[22:47:22] [INFO] Server: 心跳机制已启动
+[22:47:22] [INFO] Server: 心跳机制启动，间隔: 30秒
+[22:47:22] [INFO] Server: 发送心跳包，当前连接数: 1
+[22:47:22] [INFO] Client: 初始连接出现异常: '_thread.lock' object does not support the asynchronous context manager protocol
+Traceback (most recent call last):
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 621, in connect_and_receive
+    await self.ensure_receiving()
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 349, in ensure_receiving
+    async with self._lock:
+TypeError: '_thread.lock' object does not support the asynchronous context manager protocol
+
+[22:47:22] [INFO] Client: 接收消息线程出现异常: '_thread.lock' object does not support the asynchronous context manager protocol
+Traceback (most recent call last):
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 621, in connect_and_receive
+    await self.ensure_receiving()
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 349, in ensure_receiving
+    async with self._lock:
+TypeError: '_thread.lock' object does not support the asynchronous context manager protocol
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 336, in _receive_messages_helper
+    self.loop.run_until_complete(self.connect_and_receive())
+  File "C:\Users\YingXIYa\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 632, in connect_and_receive
+    await self.reconnect()
+  File "D:\YingXIYa\Work\DGlab-punishment\wsdglab\ws_client.py", line 505, in reconnect
+    async with self._lock:
+TypeError: '_thread.lock' object does not support the asynchronous context manager protocol
+
+[22:47:22] [INFO] Client: 接收消息线程已退出
+[22:47:27] [INFO] 窗口关闭事件触发，开始清理...
+[22:47:27] [INFO] 程序开始清理资源...
+[22:47:29] [INFO] 客户端已停止
+[22:47:30] [INFO] 等待资源完全释放...
+[22:47:30] [INFO] 倒计时 3 秒...
+[22:47:31] [INFO] 倒计时 2 秒...
+[22:47:32] [INFO] 倒计时 1 秒...
+[22:47:33] [INFO] 资源清理完成，程序退出

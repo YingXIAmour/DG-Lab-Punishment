@@ -1,10 +1,5 @@
 #ws_qrcode.py
 import qrcode
-from PIL import Image, ImageTk
-import threading
-import tkinter as tk
-import os
-import sys
 # 生成二维码并保存为文件
 def generate_qrcode(url):
     qr = qrcode.QRCode(

@@ -1,0 +1,7 @@
+{
+    "flask_socketio": ["python-socketio", "python-engineio"],
+    "bilibili_api": ["requests", "aiohttp"],
+    "qrcode": ["Pillow"],
+    "csgo_dglab": ["qrcode", "aiohttp","pillow"],
+    "bilibiliClient": ["flask_socketio", "bilibili_api", "xpinyin"]
+}

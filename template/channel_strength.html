@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
     <meta charset="UTF-8">
     <title>郊狼惩罚姬 - 强度信息页面</title>
+    <link rel="icon" type="image/ico" href="/DG-LAB.ico">
     <style>
         body {
             margin: 0;
@@ -14,56 +16,15 @@
             flex-direction: column;
             height: 100vh;
         }
-    .loaderBar {
-            width: calc(160px / 0.707);
-            height: 10px;
-            background: #F9F9F9;
-            border-radius: 10px;
-            border: 1px solid #006DFE;
-            position: relative;
-            overflow: hidden;
-            margin-bottom: 20px;
-        }
-    .loaderBar::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 100%;
-            border-radius: 5px;
-            background: repeating-linear-gradient(45deg, #0031F2 0 30px, #006DFE 0 40px) right/200% 100%;
-            animation: fillProgress 6s ease-in-out infinite, lightEffect 1s infinite linear;
-            animation-fill-mode: forwards;
-        }
-        @keyframes fillProgress {
-            0% {
-                width: 0;
-            }
-            33% {
-                width: 33.333%;
-            }
-            66% {
-                width: 66.67%;
-            }
-            100% {
-                width: 100%;
-            }
-        }
-        @keyframes lightEffect {
-            0%, 20%, 40%, 60%, 80%, 100% {
-                background: repeating-linear-gradient(45deg, #0031F2 0 30px, #006DFE 0 40px) right/200% 100%;
-            }
-            10%, 30%, 50%, 70%, 90% {
-                background: repeating-linear-gradient(45deg, #0031F2 0 30px, #006DFE 0 40px, rgba(255, 255, 255, 0.3) 0 40px) right/200% 100%;
-            }
-        }
-    .channel-progress {
+
+       .channel-progress {
             display: flex;
             flex-direction: column;
             align-items: center;
             margin-bottom: 20px;
         }
-    .channel-progress-bar {
+
+       .channel-progress-bar {
             width: 200px;
             height: 20px;
             background-color: #ddd;
@@ -71,30 +32,32 @@
             overflow: hidden;
             position: relative;
         }
-    .channel-progress-bar-fill {
+
+       .channel-progress-bar-fill {
             position: absolute;
             top: 0;
             left: 0;
             height: 100%;
-            background-color: #006DFE;
             border-radius: 10px;
             transition: width 0.5s ease;
         }
-    .bg {
+
+       .bg {
             position: relative;
             background-color: rgba(0, 0, 0, 0.6);
             border-radius: 10px;
             padding: 20px;
         }
-    .channel-progress span {
+
+       .channel-progress span {
             color: white;
         }
     </style>
     <script>
         function refreshPage() {
             fetch('/data')
-         .then(response => response.json())
-         .then(data => {
+              .then(response => response.json())
+              .then(data => {
                     document.getElementById('a_channel').innerHTML = data.a_channel;
                     document.getElementById('a_channel_max').innerHTML = data.a_channel_max;
                     document.getElementById('b_channel').innerHTML = data.b_channel;
@@ -103,32 +66,47 @@
                     updateProgressBar('a_channel_progress', data.a_channel, data.a_channel_max);
                     // 更新通道 B 的进度条
                     updateProgressBar('b_channel_progress', data.b_channel, data.b_channel_max);
-                    setTimeout(refreshPage, 1000); // 每秒刷新一次
+                    setTimeout(refreshPage, 500); // 每秒刷新一次
                 });
         }
+
         function updateProgressBar(progressBarId, value, maxValue) {
             const progressBar = document.getElementById(progressBarId);
             const progressBarFill = progressBar.querySelector('.channel-progress-bar-fill');
             const percentage = (value / maxValue) * 100;
             progressBarFill.style.width = `${percentage}%`;
+
+            // 根据百分比设置进度条颜色
+            if (percentage >= 0 && percentage < 50) {
+                progressBarFill.style.backgroundColor = 'green';
+            } else if (percentage >= 50 && percentage < 90) {
+                progressBarFill.style.backgroundColor = 'darkorange';
+            } else if (percentage >= 90 && percentage <= 100) {
+                progressBarFill.style.backgroundColor ='red';
+            }
         }
+
         window.onload = refreshPage;
     </script>
 </head>
+
 <body>
     <div class="bg">
         <div class="channel-progress">
             <span>通道 A 强度：<span id="a_channel">0</span> 强度上限：<span id="a_channel_max">50</span></span>
+            <br />
             <div class="channel-progress-bar" id="a_channel_progress">
                 <div class="channel-progress-bar-fill"></div>
             </div>
         </div>
         <div class="channel-progress">
             <span>通道 B 强度：<span id="b_channel">0</span> 强度上限：<span id="b_channel_max">50</span></span>
+            <br />
             <div class="channel-progress-bar" id="b_channel_progress">
                 <div class="channel-progress-bar-fill"></div>
             </div>
         </div>
     </div>
 </body>
+
 </html>

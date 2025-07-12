@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>郊狼惩罚姬 - 主页面</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- 配置Tailwind自定义颜色 -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#165DFF',
+                        secondary: '#36D399',
+                        danger: '#F87272',
+                        success: '#10B981',
+                        warning: '#F59E0B',
+                        info: '#3B82F6',
+                        neutral: {
+                            100: '#F3F4F6',
+                            200: '#E5E7EB',
+                            300: '#D1D5DB',
+                            400: '#9CA3AF',
+                            500: '#6B7280',
+                            600: '#4B5563',
+                            700: '#374151',
+                            800: '#1F2937',
+                            900: '#111827',
+                        }
+                    },
+                    fontFamily: {
+                        inter: ['Inter', 'sans-serif'],
+                    },
+                    boxShadow: {
+                        'card': '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+                        'card-hover': '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
+                    }
+                },
+            }
+        }
+    </script>
+    <!-- 自定义工具类 -->
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .content-auto {
+                content-visibility: auto;
+            }
+            .animate-fade-in {
+                animation: fadeIn 0.3s ease-in-out;
+            }
+            .status-tag {
+                @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+            }
+            .status-tag-running {
+                @apply bg-success/10 text-success;
+            }
+            .status-tag-stopped {
+                @apply bg-danger/10 text-danger;
+            }
+        }
+    </style>
+    <!-- 其他资源 -->
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
+    <link href="assets/styles.css" rel="stylesheet">
+</head>
+<body class="font-inter bg-gray-50 text-neutral-800 min-h-screen flex flex-col relative overflow-x-hidden">
+    <!-- 背景图片 -->
+    <div class="fixed inset-0 z-0">
+        <img src="background.png" alt="背景" class="w-full h-full object-cover opacity-80">
+    </div>
+
+    <!-- 顶部导航栏 -->
+   <header class="app-header sticky top-0 z-50 transition-all duration-300 bg-white/90 backdrop-blur-md shadow-sm">
+    <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+        <div class="flex items-center space-x-2">
+            <i class="fa fa-shield text-primary text-xl"></i>
+            <h1 class="text-xl font-bold text-neutral-800">郊狼惩罚姬</h1>
+        </div>
+
+        <!-- 新增：右上角图标按钮区域 -->
+        <div class="flex items-center space-x-4">
+            <!-- 版本信息 -->
+            <div class="text-sm text-neutral-600 hidden md:block">
+                版本：<span id="version" class="font-medium">3.0.0</span>
+            </div>
+
+            <!-- 二维码图标按钮 -->
+            <div class="relative group">
+                <button class="p-2 rounded-full hover:bg-gray-100 transition-colors duration-200">
+                    <i class="fa fa-qrcode text-neutral-600"></i>
+                </button>
+
+                <!-- 弹出窗口（默认隐藏） -->
+                <div class="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-tooltip opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
+                    <div class="p-3 text-center">
+                        <img id="qrcode-image" src="qrcode.png" alt="连接码" class="w-full h-auto rounded">
+                        <p class="text-xs text-neutral-500 mt-1">连接码</p>
+                    </div>
+                    <!-- 箭头指示器 -->
+                    <div class="tooltip-arrow -top-1.5 right-4 shadow-sm"></div>
+                </div>
+            </div>
+
+            <!-- 其他图标按钮（可扩展） -->
+            <div class="relative group">
+                <button class="p-2 rounded-full hover:bg-gray-100 transition-colors duration-200">
+                    <a href="https://github.com/YingXIAmour/DG-Lab-Punishment" target="_blank"><i class="fa fa-github text-neutral-600"></i></a>
+                </button>
+            </div>
+        </div>
+    </div>
+</header>
+
+    <!-- 主内容区 -->
+    <main class="flex-grow container mx-auto px-4 py-6 relative z-10">
+        <!-- 状态卡片 -->
+        <div class="status-card bg-white rounded-xl shadow-card p-6 mb-6 transition-all duration-300 hover:shadow-card-hover hover:-translate-y-1">
+            <div class="flex items-center mb-4">
+                <i class="fa fa-dashboard text-primary text-lg mr-2"></i>
+                <h2 class="text-lg font-semibold text-neutral-800">系统状态</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="bg-gray-50 rounded-lg p-4 flex items-center border-l-4 border-primary">
+                    <i class="fa fa-server text-primary mr-3 text-xl"></i>
+                    <div>
+                        <p class="text-sm text-neutral-500">服务端</p>
+                        <p id="server_status" class="text-danger font-medium">未运行</p>
+                    </div>
+                </div>
+                <div class="bg-gray-50 rounded-lg p-4 flex items-center border-l-4 border-primary">
+                    <i class="fa fa-laptop text-primary mr-3 text-xl"></i>
+                    <div>
+                        <p class="text-sm text-neutral-500">客户端</p>
+                        <p id="client_status" class="text-danger font-medium">未运行</p>
+                    </div>
+                </div>
+                <div class="bg-gray-50 rounded-lg p-4 flex items-center border-l-4 border-primary">
+                    <i class="fa fa-mobile text-primary mr-3 text-xl"></i>
+                    <div>
+                        <p class="text-sm text-neutral-500">APP连接状态</p>
+                        <p id="app_status" class="text-danger font-medium">未连接</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 功能区域 -->
+        <div class="function-card bg-white rounded-xl shadow-card p-6 mb-6 transition-all duration-300 hover:shadow-card-hover hover:-translate-y-1">
+            <div class="flex items-center mb-4">
+                <i class="fa fa-cogs text-primary text-lg mr-2"></i>
+                <h2 class="text-lg font-semibold text-neutral-800">功能页面</h2>
+            </div>
+
+            <!-- 选项卡导航 -->
+            <div class="tab-container relative mb-6">
+                <div class="flex border-b border-gray-200">
+                    <button class="tab-btn tab-active px-5 py-3 text-sm font-medium transition-all duration-200" data-panel="panel1">
+                        <i class="fa fa-home mr-1"></i>主页信息
+                    </button>
+                    <button class="tab-btn px-5 py-3 text-neutral-500 text-sm font-medium transition-all duration-200" data-panel="panel2">
+                        <i class="fa fa-wrench mr-1"></i>功能模块
+                    </button>
+                    <button class="tab-btn px-5 py-3 text-neutral-500 text-sm font-medium transition-all duration-200" data-panel="panel3">
+                        <i class="fa fa-sliders mr-1"></i>设置
+                    </button>
+                    <button class="tab-btn px-5 py-3 text-neutral-500 text-sm font-medium transition-all duration-200" data-panel="panel4">
+                        <i class="fa fa-th-list mr-1"></i>已安装模块
+                    </button>
+                </div>
+                <!-- 滑块指示器 -->
+                <div class="tab-slider absolute h-0.5 bg-primary bottom-0 left-0 transition-all duration-300" style="width: 100px;"></div>
+            </div>
+
+            <!-- 面板内容 -->
+            <div class="panel-container">
+                <!-- 主页信息面板 -->
+                <div class="panel panel-active animate-fade-in" id="panel1">
+                    <div class="welcome-message bg-blue-50 rounded-lg p-4 mb-4 border border-blue-100">
+                        <p class="text-neutral-700">欢迎使用郊狼惩罚姬系统，请选择相应功能进行操作。</p>
+                        <p class="text-neutral-700">如果觉得窗口太难看可以去浏览器直接使用http://127.0.0.1:8000即可访问主界面</p>
+                        <p class="text-neutral-700">如果要直播的话需要将强度显示出来可以在obs上选择添加浏览器 输入http://127.0.0.1:8000/channel_strength 即可显示</p>
+                    </div>
+                </div>
+
+                <!-- 功能模块面板 -->
+                <div class="panel hidden" id="panel2">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                        <button id="server" class="action-btn bg-primary hover:bg-primary/90 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 flex items-center justify-center shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
+                            <i class="fa fa-play mr-2"></i>启动服务端
+                        </button>
+                        <button id="client" class="action-btn bg-primary hover:bg-primary/90 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 flex items-center justify-center shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
+                            <i class="fa fa-play mr-2"></i>启动客户端
+                        </button>
+                    </div>
+                </div>
+
+                <!-- 设置面板 -->
+                <div class="panel hidden" id="panel3">
+                    <div class="settings-form space-y-4">
+                        <!-- 服务端 IP 输入框 -->
+                        <div class="form-group">
+                            <label for="serverIp" class="block text-sm font-medium text-neutral-700 mb-1">服务端 IP</label>
+                            <input type="text" id="serverIp" class="w-full px-3 py-2 border border-neutral-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all duration-200 shadow-sm">
+                        </div>
+
+                        <!-- 服务端模式选择框 -->
+                        <div class="form-group">
+                            <label for="serverMode" class="block text-sm font-medium text-neutral-700 mb-1">服务端模式</label>
+                            <select id="serverMode" class="w-full px-3 py-2 border border-neutral-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all duration-200 shadow-sm">
+                                <option value="n-n">n - n</option>
+                                <option value="n-1">n - 1</option>
+                                <option value="1-n">1 - n</option>
+                            </select>
+                        </div>
+
+                        <!-- 客户端模式选择框 -->
+                        <div class="form-group">
+                            <label for="clientMode" class="block text-sm font-medium text-neutral-700 mb-1">客户端模式</label>
+                            <select id="clientMode" class="w-full px-3 py-2 border border-neutral-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all duration-200 shadow-sm">
+                                <option value="n-n">n - n</option>
+                                <option value="n-1">n - 1</option>
+                                <option value="1-n">1 - n</option>
+                            </select>
+                        </div>
+
+                        <!-- 按钮 -->
+                        <div class="flex space-x-3">
+                            <button id="button1" class="action-btn bg-gray-200 hover:bg-gray-300 text-neutral-700 font-medium py-2 px-4 rounded-lg transition-all duration-200 flex items-center justify-center shadow-sm hover:shadow-md transform hover:-translate-y-0.5">
+                                <i class="fa fa-refresh mr-2"></i>重载配置文件
+                            </button>
+                            <button id="button2" class="action-btn bg-primary hover:bg-primary/90 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 flex items-center justify-center shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
+                                <i class="fa fa-save mr-2"></i>保存
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 已安装模块面板 -->
+                <div class="panel hidden" id="panel4">
+                    <div class="module-table overflow-x-auto">
+                        <table class="min-w-full divide-y divide-gray-200">
+                            <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-neutral-500 uppercase tracking-wider">模块名称</th>
+                                    <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-neutral-500 uppercase tracking-wider">状态</th>
+                                    <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-neutral-500 uppercase tracking-wider">操作</th>
+                                </tr>
+                            </thead>
+                            <tbody class="bg-white divide-y divide-gray-200" id="module-tbody">
+                                <!-- 模块数据将通过JS动态加载 -->
+                                <tr class="animate-pulse">
+                                    <td colspan="3" class="px-6 py-4 text-center text-neutral-500">
+                                        <i class="fa fa-spinner fa-spin mr-2"></i>加载中...
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- 日志区域 -->
+        <div class="log-card bg-white rounded-xl shadow-card p-6 transition-all duration-300 hover:shadow-card-hover hover:-translate-y-1">
+            <div class="flex items-center justify-between mb-4">
+                <div class="flex items-center">
+                    <i class="fa fa-file-text-o text-primary text-lg mr-2"></i>
+                    <h2 class="text-lg font-semibold text-neutral-800">系统日志</h2>
+                </div>
+                <button id="clear_log" class="text-sm text-neutral-500 hover:text-primary transition-colors">
+                    <i class="fa fa-trash-o mr-1"></i>清空
+                </button>
+            </div>
+            <div class="relative">
+                <textarea id="log" readonly class="w-full h-60 p-3 bg-gray-50 border border-neutral-300 rounded-md font-mono text-sm focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all duration-200 shadow-sm">
+系统启动中...
+[2025-07-04 09:00:00] 郊狼惩罚姬 v3.0.0 初始化完成
+                </textarea>
+                <div id="log_indicator" class="absolute right-3 bottom-3 text-xs text-neutral-500">
+                    <i class="fa fa-circle text-green-500 animate-pulse mr-1"></i>实时更新中
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="app-footer sticky bottom-0 z-40 transition-all duration-300 bg-white/90 backdrop-blur-md shadow-sm py-4 mt-6">
+        <div class="container mx-auto px-4 text-center text-sm text-neutral-500">
+            <p>© 2025 郊狼惩罚姬系统 | 版本：<span id="footer_version">3.0.0</span></p>
+        </div>
+    </footer>
+
+    <script src="assets/main.js"></script>
+</body>
+<div id="custom-modal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 opacity-0 pointer-events-none transition-opacity duration-300">
+    <div class="bg-white rounded-lg shadow-lg w-full max-w-md p-6 transform transition-transform duration-300 scale-95">
+        <div class="flex items-start">
+            <div class="flex-shrink-0 mt-1" id="modal-icon">
+                <i class="fa fa-exclamation-circle text-red-500 text-2xl"></i>
+            </div>
+            <div class="ml-3">
+                <h3 class="text-lg font-medium text-neutral-900" id="modal-title">标题</h3>
+                <div class="mt-2" id="modal-message">
+                    <p class="text-sm text-neutral-600">内容</p>
+                </div>
+                <div class="mt-4 flex justify-end space-x-3" id="modal-buttons">
+                    <button id="modal-confirm" class="px-4 py-2 bg-primary text-white rounded-md hover:bg-primary/90 transition-colors">
+                        确定
+                    </button>
+                    <button id="modal-cancel" class="px-4 py-2 bg-gray-200 text-neutral-700 rounded-md hover:bg-gray-300 transition-colors hidden">
+                        取消
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</html>

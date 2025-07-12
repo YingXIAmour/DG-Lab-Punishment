@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>郊狼惩罚姬 - 强度监测</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#FF4D9E', // 通道A主色
+                        secondary: '#36BFFA', // 通道B主色
+                        panel: '#F0F0F0', // 浅灰色背景
+                    },
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .transparent-bg {
+                background-color: rgba(0, 0, 0, 0);
+            }
+            .progress-bar {
+                transition: width 0.5s ease;
+            }
+        }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4 transparent-bg">
+    <!-- 浅灰色背景面板 -->
+    <div class="w-96 p-6 rounded-xl bg-panel shadow-lg">
+        <h2 class="text-2xl font-bold text-center mb-6 text-gray-800">郊狼惩罚姬 - 强度监测</h2>
+
+        <!-- 通道A进度条 -->
+        <div class="space-y-2 mb-6">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center space-x-2">
+                    <span class="text-xl font-bold text-primary">通道A</span>
+                    <span id="value-a" class="text-xl font-bold text-primary">0</span>
+                    <span class="text-gray-400 text-xl" id="max-a">/0</span>
+                </div>
+                <span class="text-gray-400" id="percent-a">0%</span>
+            </div>
+            <div class="h-8 bg-gray-200 rounded-full overflow-hidden">
+                <div id="progress-a" class="progress-bar h-full bg-primary" style="width: 0%"></div>
+            </div>
+        </div>
+
+        <!-- 通道B进度条 -->
+        <div class="space-y-2">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center space-x-2">
+                    <span class="text-xl font-bold text-secondary">通道B</span>
+                    <span id="value-b" class="text-xl font-bold text-secondary">0</span>
+                    <span class="text-gray-400 text-xl" id="max-b">/0</span>
+                </div>
+                <span class="text-gray-400" id="percent-b">0%</span>
+            </div>
+            <div class="h-8 bg-gray-200 rounded-full overflow-hidden">
+                <div id="progress-b" class="progress-bar h-full bg-secondary" style="width: 0%"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 更新进度条
+        function updateProgress(barId, value, max, percentId, maxDisplayId) {
+            const progressBar = document.getElementById(barId);
+            const percentage = Math.min((value / max) * 100, 100);
+            progressBar.style.width = `${percentage}%`;
+
+            // 更新百分比显示
+            document.getElementById(percentId).textContent = `${Math.round(percentage)}%`;
+
+            // 更新最大值显示
+            document.getElementById(maxDisplayId).textContent = `/${max}`;
+        }
+
+        // 更新数值显示
+        function updateValues(aValue, bValue) {
+            document.getElementById('value-a').textContent = aValue;
+            document.getElementById('value-b').textContent = bValue;
+        }
+
+        // 数据获取逻辑
+        function refreshPage() {
+            fetch('/data')
+                .then(response => response.json())
+                .then(data => {
+                    // 更新通道数值
+                    updateValues(data.a_channel, data.b_channel);
+
+                    // 更新通道进度条 (使用数据中的最大值)
+                    updateProgress('progress-a', data.a_channel, data.a_channel_max, 'percent-a', 'max-a');
+                    updateProgress('progress-b', data.b_channel, data.b_channel_max, 'percent-b', 'max-b');
+
+                    // 计划下一次刷新
+                    setTimeout(refreshPage, 500);
+                })
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+                    // 失败后重试
+                    setTimeout(refreshPage, 2000);
+                });
+        }
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', () => {
+            // 启动数据刷新
+            setTimeout(refreshPage, 1000);
+        });
+    </script>
+</body>
+</html>
