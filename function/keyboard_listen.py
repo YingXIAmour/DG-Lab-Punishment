@@ -54,7 +54,7 @@ class KeyBindingHandler:
             key = all_characters.replace(random_character, '', 1)
             send_data = data
             send_data['message'] = send_channel + ":" + self.ai_wave_data(random.randint(6, 12))
-            sned_data['time'] = random.randint(1, 5)
+            send_data['time'] = random.randint(1, 5)
             self.bind_hotkey(key,send_data)
     def bind_hotkey(self, hotkey_str, data):
         """
